@@ -1,0 +1,71 @@
+[2022/05/10 10:29:33] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 10:29:33.4353 [CRITICAL] can't find app example_app
+[2022/05/10 10:30:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 10:30:02.2962 [CRITICAL] can't find app example_app
+[2022/05/10 10:35:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 10:35:01.8349 [CRITICAL] can't find app example_app
+[2022/05/10 10:40:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 10:40:01.4667 [CRITICAL] can't find app example_app
+[2022/05/10 10:45:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 10:45:02.0991 [CRITICAL] can't find app example_app
+[2022/05/10 10:50:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 10:50:01.7299 [CRITICAL] can't find app example_app
+[2022/05/10 10:55:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 10:55:01.3606 [CRITICAL] can't find app example_app
+[2022/05/10 11:00:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 11:00:01.9944 [CRITICAL] can't find app example_app
+[2022/05/10 11:05:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 11:05:01.6253 [CRITICAL] can't find app example_app
+[2022/05/10 11:10:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 11:10:02.2628 [CRITICAL] can't find app example_app
+[2022/05/10 11:15:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 11:15:01.8942 [CRITICAL] can't find app example_app
+[2022/05/10 11:20:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 11:20:01.5399 [CRITICAL] can't find app example_app
+[2022/05/10 11:25:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 11:25:02.1718 [CRITICAL] can't find app example_app
+[2022/05/10 11:30:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 11:30:01.8065 [CRITICAL] can't find app example_app
+[2022/05/10 11:35:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 11:35:01.5380 [CRITICAL] can't find app example_app
+[2022/05/10 11:40:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 11:40:02.1742 [CRITICAL] can't find app example_app
+[2022/05/10 11:45:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 11:45:01.8052 [CRITICAL] can't find app example_app
+[2022/05/10 11:50:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 11:50:01.4376 [CRITICAL] can't find app example_app
+[2022/05/10 11:55:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 11:55:02.0687 [CRITICAL] can't find app example_app
+[2022/05/10 12:00:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 12:00:01.7001 [CRITICAL] can't find app example_app
+[2022/05/10 12:05:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 12:05:01.3313 [CRITICAL] can't find app example_app
+[2022/05/10 12:10:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 12:10:01.9649 [CRITICAL] can't find app example_app
+[2022/05/10 12:15:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 12:15:01.5964 [CRITICAL] can't find app example_app
+[2022/05/10 12:20:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 12:20:02.2311 [CRITICAL] can't find app example_app
+[2022/05/10 12:25:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 12:25:01.8620 [CRITICAL] can't find app example_app
+[2022/05/10 12:30:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 12:30:01.4939 [CRITICAL] can't find app example_app
+[2022/05/10 12:35:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 12:35:02.2246 [CRITICAL] can't find app example_app
+[2022/05/10 12:40:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 12:40:01.8597 [CRITICAL] can't find app example_app
+[2022/05/10 12:45:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 12:45:01.4904 [CRITICAL] can't find app example_app
+[2022/05/10 12:50:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 12:50:02.1216 [CRITICAL] can't find app example_app
+[2022/05/10 12:55:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 12:55:01.7529 [CRITICAL] can't find app example_app
+[2022/05/10 13:00:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 13:00:01.3846 [CRITICAL] can't find app example_app
+[2022/05/10 13:05:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 13:05:02.0265  Starting
+process_input_template: 1 input files given, but template has 0
+process_input_template(): unexpected XML tag or syntax
+2022-05-10 13:05:02.0268 [CRITICAL] can't make job: unexpected XML tag or syntax
+[2022/05/10 13:10:01] Executing command: sample_work_generator -d 3 --app example_app
+2022-05-10 13:10:01.6613  Starting

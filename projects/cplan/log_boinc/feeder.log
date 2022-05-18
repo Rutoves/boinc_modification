@@ -1,0 +1,428 @@
+[2022/05/10 10:29:33] Executing command: feeder -d 3
+2022-05-10 10:29:33.1310  Starting
+2022-05-10 10:29:33.1311  8ddc1d2aef5391d342c67a43cff8c2b474e149a3 [https://github.com/BOINC/boinc] (boinc:/home/rutoves/boinc [(HEAD detached at client_release/7.16/7.16.21)]) [Server-Release: server_release/1.1/1.1.0]
+have apps for CPU: no
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Miner ASIC: no
+2022-05-10 10:29:33.1491  read 0 platforms, 0 apps, 0 app_versions, 0 assignments
+2022-05-10 10:29:33.1491  Using 100 job slots
+2022-05-10 13:01:15.5373  Found trigger file reread_db; re-scanning database tables.
+have apps for CPU: no
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Miner ASIC: no
+2022-05-10 13:01:15.5423  Done re-scanning: trigger file removed.
+2022-05-10 13:07:30.6412  adding result [RESULT#1] in slot 0
+2022-05-10 13:10:10.6878  adding result [RESULT#2] in slot 1
+2022-05-10 13:10:10.6879  adding result [RESULT#3] in slot 2
+2022-05-10 13:10:10.6879  adding result [RESULT#4] in slot 3
+2022-05-10 13:10:10.6879  adding result [RESULT#5] in slot 4
+2022-05-10 13:10:10.6879  adding result [RESULT#6] in slot 5
+2022-05-10 13:10:10.6879  adding result [RESULT#7] in slot 6
+2022-05-10 13:10:10.6880  adding result [RESULT#8] in slot 7
+2022-05-10 13:10:10.6880  adding result [RESULT#9] in slot 8
+2022-05-10 13:10:10.6880  adding result [RESULT#10] in slot 9
+2022-05-10 14:39:07.0942  adding result [RESULT#11] in slot 10
+2022-05-10 15:11:47.7116  Found trigger file reread_db; re-scanning database tables.
+have apps for CPU: no
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Miner ASIC: no
+2022-05-10 15:11:47.7170  Done re-scanning: trigger file removed.
+2022-05-10 15:11:47.7174  adding result [RESULT#1] in slot 0
+2022-05-10 15:11:47.7174  adding result [RESULT#2] in slot 1
+2022-05-10 15:11:47.7174  adding result [RESULT#3] in slot 2
+2022-05-10 15:11:47.7174  adding result [RESULT#4] in slot 3
+2022-05-10 15:11:47.7175  adding result [RESULT#5] in slot 4
+2022-05-10 15:11:47.7175  adding result [RESULT#6] in slot 5
+2022-05-10 15:11:47.7175  adding result [RESULT#7] in slot 6
+2022-05-10 15:11:47.7175  adding result [RESULT#8] in slot 7
+2022-05-10 15:11:47.7175  adding result [RESULT#9] in slot 8
+2022-05-10 15:11:47.7175  adding result [RESULT#10] in slot 9
+2022-05-10 15:11:47.7175  adding result [RESULT#11] in slot 10
+2022-05-10 15:18:02.8414  Found trigger file reread_db; re-scanning database tables.
+have apps for CPU: no
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Miner ASIC: no
+2022-05-10 15:18:02.8467  Done re-scanning: trigger file removed.
+2022-05-10 15:18:02.8472  adding result [RESULT#1] in slot 0
+2022-05-10 15:18:02.8472  adding result [RESULT#2] in slot 1
+2022-05-10 15:18:02.8472  adding result [RESULT#3] in slot 2
+2022-05-10 15:18:02.8472  adding result [RESULT#4] in slot 3
+2022-05-10 15:18:02.8472  adding result [RESULT#5] in slot 4
+2022-05-10 15:18:02.8472  adding result [RESULT#6] in slot 5
+2022-05-10 15:18:02.8472  adding result [RESULT#7] in slot 6
+2022-05-10 15:18:02.8472  adding result [RESULT#8] in slot 7
+2022-05-10 15:18:02.8472  adding result [RESULT#9] in slot 8
+2022-05-10 15:18:02.8473  adding result [RESULT#10] in slot 9
+2022-05-10 15:18:02.8473  adding result [RESULT#11] in slot 10
+2022-05-10 15:22:22.9268  Found trigger file reread_db; re-scanning database tables.
+have apps for CPU: no
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Miner ASIC: no
+2022-05-10 15:22:22.9323  Done re-scanning: trigger file removed.
+2022-05-10 15:22:22.9327  adding result [RESULT#1] in slot 0
+2022-05-10 15:22:22.9327  adding result [RESULT#2] in slot 1
+2022-05-10 15:22:22.9327  adding result [RESULT#3] in slot 2
+2022-05-10 15:22:22.9328  adding result [RESULT#4] in slot 3
+2022-05-10 15:22:22.9328  adding result [RESULT#5] in slot 4
+2022-05-10 15:22:22.9328  adding result [RESULT#6] in slot 5
+2022-05-10 15:22:22.9328  adding result [RESULT#7] in slot 6
+2022-05-10 15:22:22.9328  adding result [RESULT#8] in slot 7
+2022-05-10 15:22:22.9328  adding result [RESULT#9] in slot 8
+2022-05-10 15:22:22.9328  adding result [RESULT#10] in slot 9
+2022-05-10 15:22:22.9328  adding result [RESULT#11] in slot 10
+2022-05-10 15:24:42.9806  Found trigger file reread_db; re-scanning database tables.
+have apps for CPU: no
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Miner ASIC: no
+2022-05-10 15:24:42.9862  Done re-scanning: trigger file removed.
+2022-05-10 15:24:42.9866  adding result [RESULT#1] in slot 0
+2022-05-10 15:24:42.9866  adding result [RESULT#2] in slot 1
+2022-05-10 15:24:42.9866  adding result [RESULT#3] in slot 2
+2022-05-10 15:24:42.9866  adding result [RESULT#4] in slot 3
+2022-05-10 15:24:42.9866  adding result [RESULT#5] in slot 4
+2022-05-10 15:24:42.9866  adding result [RESULT#6] in slot 5
+2022-05-10 15:24:42.9866  adding result [RESULT#7] in slot 6
+2022-05-10 15:24:42.9867  adding result [RESULT#8] in slot 7
+2022-05-10 15:24:42.9867  adding result [RESULT#9] in slot 8
+2022-05-10 15:24:42.9867  adding result [RESULT#10] in slot 9
+2022-05-10 15:24:42.9867  adding result [RESULT#11] in slot 10
+2022-05-10 15:33:53.1494  Found trigger file reread_db; re-scanning database tables.
+have apps for CPU: yes
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Miner ASIC: no
+2022-05-10 15:33:53.1550  Done re-scanning: trigger file removed.
+2022-05-10 15:33:53.1554  adding result [RESULT#1] in slot 0
+2022-05-10 15:33:53.1555  adding result [RESULT#2] in slot 1
+2022-05-10 15:33:53.1555  adding result [RESULT#3] in slot 2
+2022-05-10 15:33:53.1555  adding result [RESULT#4] in slot 3
+2022-05-10 15:33:53.1555  adding result [RESULT#5] in slot 4
+2022-05-10 15:33:53.1555  adding result [RESULT#6] in slot 5
+2022-05-10 15:33:53.1555  adding result [RESULT#7] in slot 6
+2022-05-10 15:33:53.1555  adding result [RESULT#8] in slot 7
+2022-05-10 15:33:53.1555  adding result [RESULT#9] in slot 8
+2022-05-10 15:33:53.1555  adding result [RESULT#10] in slot 9
+2022-05-10 15:33:53.1556  adding result [RESULT#11] in slot 10
+2022-05-10 15:35:38.1842  adding result [RESULT#12] in slot 11
+2022-05-10 15:40:33.2565  adding result [RESULT#13] in slot 0
+2022-05-10 15:40:33.2565  adding result [RESULT#14] in slot 1
+2022-05-10 15:40:33.2565  adding result [RESULT#15] in slot 2
+2022-05-10 15:40:33.2565  adding result [RESULT#16] in slot 3
+2022-05-10 15:40:33.2566  adding result [RESULT#17] in slot 4
+2022-05-10 15:40:33.2566  adding result [RESULT#18] in slot 5
+2022-05-10 15:40:33.2566  adding result [RESULT#19] in slot 6
+2022-05-10 15:40:33.2566  adding result [RESULT#20] in slot 7
+2022-05-10 15:40:33.2566  adding result [RESULT#21] in slot 8
+2022-05-10 15:40:33.2566  adding result [RESULT#22] in slot 9
+2022-05-10 15:43:58.3295  adding result [RESULT#23] in slot 0
+2022-05-10 15:43:58.3296  adding result [RESULT#24] in slot 1
+2022-05-10 15:43:58.3296  adding result [RESULT#25] in slot 2
+2022-05-10 15:43:58.3296  adding result [RESULT#26] in slot 3
+2022-05-10 15:43:58.3296  adding result [RESULT#27] in slot 4
+2022-05-10 15:43:58.3296  adding result [RESULT#28] in slot 5
+2022-05-10 15:43:58.3296  adding result [RESULT#29] in slot 6
+2022-05-10 15:43:58.3296  adding result [RESULT#30] in slot 7
+2022-05-10 15:43:58.3297  adding result [RESULT#31] in slot 8
+2022-05-10 15:43:58.3297  adding result [RESULT#32] in slot 9
+2022-05-10 15:43:58.3297  adding result [RESULT#33] in slot 10
+2022-05-10 15:43:58.3297  adding result [RESULT#34] in slot 11
+2022-05-10 15:54:43.5550  adding result [RESULT#35] in slot 12
+2022-05-10 15:55:33.5718  Found trigger file reread_db; re-scanning database tables.
+have apps for CPU: yes
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Miner ASIC: no
+2022-05-10 15:55:33.5775  Done re-scanning: trigger file removed.
+2022-05-10 15:55:33.5781  adding result [RESULT#23] in slot 0
+2022-05-10 15:55:33.5782  adding result [RESULT#24] in slot 1
+2022-05-10 15:55:33.5782  adding result [RESULT#25] in slot 2
+2022-05-10 15:55:33.5782  adding result [RESULT#26] in slot 3
+2022-05-10 15:55:33.5782  adding result [RESULT#27] in slot 4
+2022-05-10 15:55:33.5782  adding result [RESULT#28] in slot 5
+2022-05-10 15:55:33.5782  adding result [RESULT#29] in slot 6
+2022-05-10 15:55:33.5782  adding result [RESULT#30] in slot 7
+2022-05-10 15:55:33.5782  adding result [RESULT#31] in slot 8
+2022-05-10 15:55:33.5783  adding result [RESULT#32] in slot 9
+2022-05-10 15:55:33.5783  adding result [RESULT#33] in slot 10
+2022-05-10 15:55:33.5783  adding result [RESULT#34] in slot 11
+2022-05-10 15:55:33.5783  adding result [RESULT#35] in slot 12
+2022-05-10 15:59:33.6553  adding result [RESULT#36] in slot 0
+2022-05-10 15:59:33.6553  adding result [RESULT#37] in slot 1
+2022-05-10 15:59:33.6554  adding result [RESULT#38] in slot 2
+2022-05-10 15:59:33.6554  adding result [RESULT#39] in slot 3
+2022-05-10 15:59:33.6554  adding result [RESULT#40] in slot 4
+2022-05-10 15:59:33.6554  adding result [RESULT#41] in slot 5
+2022-05-10 15:59:33.6554  adding result [RESULT#42] in slot 6
+2022-05-10 15:59:33.6554  adding result [RESULT#43] in slot 7
+2022-05-10 15:59:33.6554  adding result [RESULT#44] in slot 8
+2022-05-10 15:59:33.6554  adding result [RESULT#45] in slot 9
+2022-05-10 16:04:28.7564  adding result [RESULT#46] in slot 10
+2022-05-10 16:06:48.8043  adding result [RESULT#47] in slot 0
+2022-05-10 16:06:48.8044  adding result [RESULT#48] in slot 1
+2022-05-10 16:06:48.8044  adding result [RESULT#49] in slot 2
+2022-05-10 16:06:48.8044  adding result [RESULT#50] in slot 3
+2022-05-10 16:06:48.8044  adding result [RESULT#51] in slot 4
+2022-05-10 16:06:48.8044  adding result [RESULT#52] in slot 5
+2022-05-10 16:06:48.8044  adding result [RESULT#53] in slot 6
+2022-05-10 16:06:48.8045  adding result [RESULT#54] in slot 7
+2022-05-10 16:06:48.8045  adding result [RESULT#55] in slot 8
+2022-05-10 16:06:48.8045  adding result [RESULT#56] in slot 9
+2022-05-10 16:06:48.8045  adding result [RESULT#57] in slot 10
+2022-05-10 16:06:48.8045  adding result [RESULT#58] in slot 11
+2022-05-10 16:06:48.8045  adding result [RESULT#59] in slot 12
+2022-05-10 16:07:03.8100  adding result [RESULT#60] in slot 0
+2022-05-10 16:07:03.8100  adding result [RESULT#61] in slot 1
+2022-05-10 16:07:03.8101  adding result [RESULT#62] in slot 2
+2022-05-10 16:07:03.8101  adding result [RESULT#63] in slot 3
+2022-05-10 16:07:03.8101  adding result [RESULT#64] in slot 4
+2022-05-10 16:07:03.8101  adding result [RESULT#65] in slot 5
+2022-05-10 16:07:03.8101  adding result [RESULT#66] in slot 6
+2022-05-10 16:07:03.8101  adding result [RESULT#67] in slot 7
+2022-05-10 16:07:03.8101  adding result [RESULT#68] in slot 8
+2022-05-10 16:07:03.8101  adding result [RESULT#69] in slot 9
+2022-05-10 16:21:24.0954  adding result [RESULT#70] in slot 0
+2022-05-10 16:21:24.0955  adding result [RESULT#71] in slot 1
+2022-05-10 16:21:24.0955  adding result [RESULT#72] in slot 2
+2022-05-10 16:21:24.0955  adding result [RESULT#73] in slot 3
+2022-05-10 16:21:24.0955  adding result [RESULT#74] in slot 4
+2022-05-10 16:21:24.0955  adding result [RESULT#75] in slot 5
+2022-05-10 16:21:24.0955  adding result [RESULT#76] in slot 6
+2022-05-10 16:21:24.0955  adding result [RESULT#77] in slot 7
+2022-05-10 16:21:24.0956  adding result [RESULT#78] in slot 8
+2022-05-10 16:21:24.0956  adding result [RESULT#79] in slot 9
+2022-05-10 16:21:24.0956  adding result [RESULT#80] in slot 10
+2022-05-10 16:21:24.0956  adding result [RESULT#81] in slot 11
+2022-05-10 16:21:24.0956  adding result [RESULT#82] in slot 12
+2022-05-10 16:21:24.0956  adding result [RESULT#83] in slot 13
+2022-05-10 16:21:24.0956  adding result [RESULT#84] in slot 14
+2022-05-10 16:21:24.0956  adding result [RESULT#85] in slot 15
+2022-05-10 16:21:24.0957  adding result [RESULT#86] in slot 16
+2022-05-10 16:21:24.0957  adding result [RESULT#87] in slot 17
+2022-05-10 16:21:24.0957  adding result [RESULT#88] in slot 18
+2022-05-10 16:21:24.0957  adding result [RESULT#89] in slot 19
+2022-05-10 16:21:24.0957  adding result [RESULT#90] in slot 20
+2022-05-10 16:21:24.0957  adding result [RESULT#91] in slot 21
+2022-05-10 16:21:24.0957  adding result [RESULT#92] in slot 22
+2022-05-10 16:21:24.0957  adding result [RESULT#93] in slot 23
+2022-05-10 16:23:29.1568  adding result [RESULT#94] in slot 0
+2022-05-10 16:23:29.1569  adding result [RESULT#95] in slot 1
+2022-05-10 16:23:29.1569  adding result [RESULT#96] in slot 2
+2022-05-10 16:23:29.1569  adding result [RESULT#97] in slot 3
+2022-05-10 16:23:29.1569  adding result [RESULT#98] in slot 4
+2022-05-10 16:23:29.1569  adding result [RESULT#99] in slot 5
+2022-05-10 16:23:29.1569  adding result [RESULT#100] in slot 6
+2022-05-10 16:23:29.1569  adding result [RESULT#101] in slot 7
+2022-05-10 16:23:29.1569  adding result [RESULT#102] in slot 8
+2022-05-10 16:23:29.1570  adding result [RESULT#103] in slot 9
+2022-05-10 16:30:54.3443  Found trigger file reread_db; re-scanning database tables.
+have apps for CPU: yes
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Miner ASIC: no
+2022-05-10 16:30:54.3501  Done re-scanning: trigger file removed.
+2022-05-10 16:30:54.3510  adding result [RESULT#94] in slot 0
+2022-05-10 16:30:54.3510  adding result [RESULT#95] in slot 1
+2022-05-10 16:30:54.3510  adding result [RESULT#96] in slot 2
+2022-05-10 16:30:54.3510  adding result [RESULT#97] in slot 3
+2022-05-10 16:30:54.3510  adding result [RESULT#98] in slot 4
+2022-05-10 16:30:54.3510  adding result [RESULT#99] in slot 5
+2022-05-10 16:30:54.3510  adding result [RESULT#100] in slot 6
+2022-05-10 16:30:54.3511  adding result [RESULT#101] in slot 7
+2022-05-10 16:30:54.3511  adding result [RESULT#102] in slot 8
+2022-05-10 16:30:54.3511  adding result [RESULT#103] in slot 9
+2022-05-10 16:31:14.3601  adding result [RESULT#104] in slot 10
+2022-05-10 16:34:34.4368  adding result [RESULT#105] in slot 0
+2022-05-10 16:34:34.4368  adding result [RESULT#106] in slot 1
+2022-05-10 16:34:34.4369  adding result [RESULT#107] in slot 2
+2022-05-10 16:34:34.4369  adding result [RESULT#108] in slot 3
+2022-05-10 16:34:34.4369  adding result [RESULT#109] in slot 4
+2022-05-10 16:34:34.4369  adding result [RESULT#110] in slot 5
+2022-05-10 16:34:34.4369  adding result [RESULT#111] in slot 6
+2022-05-10 16:34:34.4369  adding result [RESULT#112] in slot 7
+2022-05-10 16:34:34.4369  adding result [RESULT#113] in slot 8
+2022-05-10 16:34:34.4370  adding result [RESULT#114] in slot 9
+2022-05-10 16:35:19.4570  Found trigger file reread_db; re-scanning database tables.
+have apps for CPU: yes
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Miner ASIC: no
+2022-05-10 16:35:19.4626  Done re-scanning: trigger file removed.
+2022-05-10 16:35:19.4636  adding result [RESULT#105] in slot 0
+2022-05-10 16:35:19.4636  adding result [RESULT#106] in slot 1
+2022-05-10 16:35:19.4636  adding result [RESULT#107] in slot 2
+2022-05-10 16:35:19.4637  adding result [RESULT#108] in slot 3
+2022-05-10 16:35:19.4637  adding result [RESULT#109] in slot 4
+2022-05-10 16:35:19.4637  adding result [RESULT#110] in slot 5
+2022-05-10 16:35:19.4637  adding result [RESULT#111] in slot 6
+2022-05-10 16:35:19.4637  adding result [RESULT#112] in slot 7
+2022-05-10 16:35:19.4637  adding result [RESULT#113] in slot 8
+2022-05-10 16:35:19.4637  adding result [RESULT#114] in slot 9
+2022-05-10 16:35:49.4789  adding result [RESULT#115] in slot 10
+2022-05-10 16:36:34.4982  adding result [RESULT#116] in slot 0
+2022-05-10 16:36:34.4983  adding result [RESULT#117] in slot 1
+2022-05-10 16:36:34.4983  adding result [RESULT#118] in slot 2
+2022-05-10 16:36:34.4983  adding result [RESULT#119] in slot 3
+2022-05-10 16:36:34.4983  adding result [RESULT#120] in slot 4
+2022-05-10 16:36:34.4983  adding result [RESULT#121] in slot 5
+2022-05-10 16:36:34.4983  adding result [RESULT#122] in slot 6
+2022-05-10 16:36:34.4984  adding result [RESULT#123] in slot 7
+2022-05-10 16:36:34.4984  adding result [RESULT#124] in slot 8
+2022-05-10 16:36:34.4984  adding result [RESULT#125] in slot 9
+2022-05-10 16:36:34.4984  adding result [RESULT#126] in slot 10
+2022-05-10 16:36:39.5031  adding result [RESULT#127] in slot 11
+2022-05-10 16:36:39.5031  adding result [RESULT#128] in slot 12
+2022-05-10 16:36:39.5032  adding result [RESULT#129] in slot 13
+2022-05-10 16:36:39.5032  adding result [RESULT#130] in slot 14
+2022-05-10 16:36:39.5032  adding result [RESULT#131] in slot 15
+2022-05-10 16:36:39.5032  adding result [RESULT#132] in slot 16
+2022-05-10 16:36:39.5032  adding result [RESULT#133] in slot 17
+2022-05-10 16:36:39.5032  adding result [RESULT#134] in slot 18
+2022-05-10 16:36:39.5032  adding result [RESULT#135] in slot 19
+2022-05-10 16:36:39.5033  adding result [RESULT#136] in slot 20
+2022-05-10 16:38:49.5807  adding result [RESULT#137] in slot 0
+2022-05-10 16:38:49.5808  adding result [RESULT#138] in slot 1
+2022-05-10 16:38:49.5808  adding result [RESULT#139] in slot 2
+2022-05-10 16:38:49.5808  adding result [RESULT#140] in slot 3
+2022-05-10 16:38:49.5808  adding result [RESULT#141] in slot 4
+2022-05-10 16:38:49.5808  adding result [RESULT#142] in slot 5
+2022-05-10 16:38:49.5808  adding result [RESULT#143] in slot 6
+2022-05-10 16:38:49.5808  adding result [RESULT#144] in slot 7
+2022-05-10 16:38:49.5809  adding result [RESULT#145] in slot 8
+2022-05-10 16:38:49.5809  adding result [RESULT#146] in slot 9
+2022-05-10 16:38:49.5809  adding result [RESULT#147] in slot 10
+2022-05-10 16:41:04.6419  adding result [RESULT#148] in slot 0
+2022-05-10 16:41:04.6420  adding result [RESULT#149] in slot 1
+2022-05-10 16:41:04.6420  adding result [RESULT#150] in slot 2
+2022-05-10 16:41:04.6420  adding result [RESULT#151] in slot 3
+2022-05-10 16:41:04.6420  adding result [RESULT#152] in slot 4
+2022-05-10 16:41:04.6420  adding result [RESULT#153] in slot 5
+2022-05-10 16:41:04.6420  adding result [RESULT#154] in slot 6
+2022-05-10 16:41:04.6420  adding result [RESULT#155] in slot 7
+2022-05-10 16:41:04.6421  adding result [RESULT#156] in slot 8
+2022-05-10 16:41:04.6421  adding result [RESULT#157] in slot 9
+2022-05-10 16:41:04.6421  adding result [RESULT#158] in slot 10
+2022-05-10 16:41:04.6421  adding result [RESULT#159] in slot 11
+2022-05-10 16:41:04.6421  adding result [RESULT#160] in slot 12
+2022-05-10 16:41:04.6421  adding result [RESULT#161] in slot 13
+2022-05-10 16:41:04.6421  adding result [RESULT#162] in slot 14
+2022-05-10 16:41:04.6421  adding result [RESULT#163] in slot 15
+2022-05-10 16:41:04.6422  adding result [RESULT#164] in slot 16
+2022-05-10 16:41:04.6422  adding result [RESULT#165] in slot 17
+2022-05-10 16:41:04.6422  adding result [RESULT#166] in slot 18
+2022-05-10 16:41:04.6422  adding result [RESULT#167] in slot 19
+2022-05-10 16:41:04.6422  adding result [RESULT#168] in slot 20
+2022-05-10 16:41:04.6422  adding result [RESULT#169] in slot 21
+2022-05-10 16:41:04.6422  adding result [RESULT#170] in slot 22
+2022-05-10 16:41:04.6422  adding result [RESULT#171] in slot 23
+2022-05-10 16:41:04.6423  adding result [RESULT#172] in slot 24
+2022-05-10 16:41:04.6423  adding result [RESULT#173] in slot 25
+2022-05-10 16:41:04.6423  adding result [RESULT#174] in slot 26
+2022-05-10 16:41:04.6423  adding result [RESULT#175] in slot 27
+2022-05-10 16:41:04.6423  adding result [RESULT#176] in slot 28
+2022-05-10 16:41:04.6423  adding result [RESULT#177] in slot 29
+2022-05-10 16:41:04.6423  adding result [RESULT#178] in slot 30
+2022-05-10 16:41:19.6516  adding result [RESULT#179] in slot 0
+2022-05-10 16:41:19.6516  adding result [RESULT#180] in slot 1
+2022-05-10 16:41:19.6516  adding result [RESULT#181] in slot 2
+2022-05-10 16:41:19.6516  adding result [RESULT#182] in slot 3
+2022-05-10 16:41:19.6517  adding result [RESULT#183] in slot 4
+2022-05-10 16:41:19.6517  adding result [RESULT#184] in slot 5
+2022-05-10 16:41:19.6517  adding result [RESULT#185] in slot 6
+2022-05-10 16:41:19.6517  adding result [RESULT#186] in slot 7
+2022-05-10 16:41:19.6517  adding result [RESULT#187] in slot 8
+2022-05-10 16:41:19.6517  adding result [RESULT#188] in slot 9
+2022-05-11 15:43:59.2852  adding result [RESULT#189] in slot 10
+2022-05-11 15:43:59.2935  adding result [RESULT#190] in slot 11
+2022-05-11 15:43:59.2935  adding result [RESULT#191] in slot 12
+2022-05-11 15:43:59.2935  adding result [RESULT#192] in slot 13
+2022-05-11 15:43:59.2935  adding result [RESULT#193] in slot 14
+2022-05-11 15:43:59.2935  adding result [RESULT#194] in slot 15
+2022-05-11 15:43:59.2935  adding result [RESULT#195] in slot 16
+2022-05-11 15:43:59.2936  adding result [RESULT#196] in slot 17
+2022-05-11 15:43:59.2936  adding result [RESULT#197] in slot 18
+2022-05-11 15:43:59.2936  adding result [RESULT#198] in slot 19
+2022-05-11 16:21:20.7160  adding result [RESULT#199] in slot 20
+2022-05-11 16:21:20.7161  adding result [RESULT#200] in slot 21
+2022-05-11 16:21:20.7161  adding result [RESULT#201] in slot 22
+2022-05-11 16:21:20.7162  adding result [RESULT#202] in slot 23
+2022-05-11 16:21:20.7162  adding result [RESULT#203] in slot 24
+2022-05-11 16:21:20.7163  adding result [RESULT#204] in slot 25
+2022-05-11 16:21:20.7163  adding result [RESULT#205] in slot 26
+2022-05-11 16:21:20.7164  adding result [RESULT#206] in slot 27
+2022-05-11 16:21:20.7164  adding result [RESULT#207] in slot 28
+2022-05-11 16:21:20.7164  adding result [RESULT#208] in slot 29
+2022-05-11 16:23:15.8104  adding result [RESULT#209] in slot 30
+2022-05-11 16:23:15.8104  adding result [RESULT#210] in slot 31
+2022-05-11 16:23:15.8105  adding result [RESULT#211] in slot 32
+2022-05-11 16:23:20.8160  adding result [RESULT#212] in slot 33
+2022-05-11 16:23:20.8161  adding result [RESULT#213] in slot 34
+2022-05-11 16:23:20.8161  adding result [RESULT#214] in slot 35
+2022-05-11 16:23:20.8162  adding result [RESULT#215] in slot 36
+2022-05-11 16:23:20.8162  adding result [RESULT#216] in slot 37
+2022-05-11 16:23:20.8162  adding result [RESULT#217] in slot 38
+2022-05-11 16:23:20.8163  adding result [RESULT#218] in slot 39
+2022-05-11 16:23:20.8164  adding result [RESULT#219] in slot 40
+2022-05-11 16:23:20.8164  adding result [RESULT#220] in slot 41
+2022-05-11 16:23:20.8164  adding result [RESULT#221] in slot 42
+2022-05-11 16:23:20.8165  adding result [RESULT#222] in slot 43
+2022-05-11 16:23:20.8165  adding result [RESULT#223] in slot 44
+2022-05-11 16:23:20.8166  adding result [RESULT#224] in slot 45
+2022-05-11 16:23:20.8166  adding result [RESULT#225] in slot 46
+2022-05-11 16:23:20.8166  adding result [RESULT#226] in slot 47
+2022-05-11 16:23:20.8167  adding result [RESULT#227] in slot 48
+2022-05-11 16:41:02.0518  adding result [RESULT#228] in slot 49
+2022-05-11 16:41:02.0519  adding result [RESULT#229] in slot 50
+2022-05-11 16:41:02.0519  adding result [RESULT#230] in slot 51
+2022-05-11 16:41:02.0520  adding result [RESULT#231] in slot 52
+2022-05-11 16:41:02.0520  adding result [RESULT#232] in slot 53
+2022-05-11 16:41:02.0520  adding result [RESULT#233] in slot 54
+2022-05-11 16:41:02.0521  adding result [RESULT#234] in slot 55
+2022-05-11 16:41:02.0521  adding result [RESULT#235] in slot 56
+2022-05-11 16:41:02.0522  adding result [RESULT#236] in slot 57
+2022-05-11 16:41:02.0522  adding result [RESULT#237] in slot 58
+2022-05-11 16:41:17.0746  adding result [RESULT#238] in slot 59
+2022-05-11 16:41:17.0747  adding result [RESULT#239] in slot 60
+2022-05-11 16:41:17.0747  adding result [RESULT#240] in slot 61
+2022-05-11 16:41:17.0748  adding result [RESULT#241] in slot 62
+2022-05-11 16:41:17.0748  adding result [RESULT#242] in slot 63
+2022-05-11 16:41:17.0748  adding result [RESULT#243] in slot 64
+2022-05-11 16:41:17.0749  adding result [RESULT#244] in slot 65
+2022-05-11 16:41:17.0749  adding result [RESULT#245] in slot 66
+2022-05-11 16:41:17.0750  adding result [RESULT#246] in slot 67
+2022-05-11 16:41:17.0750  adding result [RESULT#247] in slot 68
+2022-05-11 16:41:17.0751  adding result [RESULT#248] in slot 69
+2022-05-11 16:41:17.0751  adding result [RESULT#249] in slot 70
+2022-05-11 16:41:17.0752  adding result [RESULT#250] in slot 71
+2022-05-11 16:41:17.0752  adding result [RESULT#251] in slot 72
+2022-05-11 16:41:17.0753  adding result [RESULT#252] in slot 73
+2022-05-11 16:41:17.0753  adding result [RESULT#253] in slot 74
+2022-05-11 16:41:17.0753  adding result [RESULT#254] in slot 75
+2022-05-11 16:41:17.0754  adding result [RESULT#255] in slot 76
+2022-05-11 16:41:17.0754  adding result [RESULT#256] in slot 77
+2022-05-11 16:41:17.0755  adding result [RESULT#257] in slot 78
+2022-05-11 16:41:17.0755  adding result [RESULT#258] in slot 79
+2022-05-11 16:41:17.0756  adding result [RESULT#259] in slot 80
+2022-05-11 16:41:17.0756  adding result [RESULT#260] in slot 81
+2022-05-11 16:41:17.0756  adding result [RESULT#261] in slot 82
+2022-05-11 16:41:17.0757  adding result [RESULT#262] in slot 83
+2022-05-11 16:41:17.0757  adding result [RESULT#263] in slot 84
+2022-05-11 16:41:17.0758  adding result [RESULT#264] in slot 85
+2022-05-11 16:41:17.0758  adding result [RESULT#265] in slot 86
+2022-05-11 16:41:17.0759  adding result [RESULT#266] in slot 87
+2022-05-11 16:41:17.0759  adding result [RESULT#267] in slot 88

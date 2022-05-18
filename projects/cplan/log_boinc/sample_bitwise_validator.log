@@ -1,0 +1,131 @@
+[2022/05/10 10:29:33] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 10:29:33.5354  max_granted_credit: 73000000.000000
+2022-05-10 10:29:33.5354  Starting validator, debug level 3
+2022-05-10 10:29:33.5358 [CRITICAL] can't find app example_app
+[2022/05/10 10:30:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 10:30:02.3963  max_granted_credit: 73000000.000000
+2022-05-10 10:30:02.3963  Starting validator, debug level 3
+2022-05-10 10:30:02.3967 [CRITICAL] can't find app example_app
+[2022/05/10 10:35:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 10:35:01.9332  max_granted_credit: 73000000.000000
+2022-05-10 10:35:01.9332  Starting validator, debug level 3
+2022-05-10 10:35:01.9336 [CRITICAL] can't find app example_app
+[2022/05/10 10:40:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 10:40:01.5673  max_granted_credit: 73000000.000000
+2022-05-10 10:40:01.5673  Starting validator, debug level 3
+2022-05-10 10:40:01.5676 [CRITICAL] can't find app example_app
+[2022/05/10 10:45:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 10:45:02.1990  max_granted_credit: 73000000.000000
+2022-05-10 10:45:02.1990  Starting validator, debug level 3
+2022-05-10 10:45:02.1993 [CRITICAL] can't find app example_app
+[2022/05/10 10:50:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 10:50:01.8295  max_granted_credit: 73000000.000000
+2022-05-10 10:50:01.8296  Starting validator, debug level 3
+2022-05-10 10:50:01.8299 [CRITICAL] can't find app example_app
+[2022/05/10 10:55:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 10:55:01.4613  max_granted_credit: 73000000.000000
+2022-05-10 10:55:01.4613  Starting validator, debug level 3
+2022-05-10 10:55:01.4616 [CRITICAL] can't find app example_app
+[2022/05/10 11:00:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 11:00:02.0943  max_granted_credit: 73000000.000000
+2022-05-10 11:00:02.0943  Starting validator, debug level 3
+2022-05-10 11:00:02.0946 [CRITICAL] can't find app example_app
+[2022/05/10 11:05:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 11:05:01.7257  max_granted_credit: 73000000.000000
+2022-05-10 11:05:01.7257  Starting validator, debug level 3
+2022-05-10 11:05:01.7260 [CRITICAL] can't find app example_app
+[2022/05/10 11:10:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 11:10:02.3636  max_granted_credit: 73000000.000000
+2022-05-10 11:10:02.3636  Starting validator, debug level 3
+2022-05-10 11:10:02.3639 [CRITICAL] can't find app example_app
+[2022/05/10 11:15:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 11:15:01.9943  max_granted_credit: 73000000.000000
+2022-05-10 11:15:01.9943  Starting validator, debug level 3
+2022-05-10 11:15:01.9946 [CRITICAL] can't find app example_app
+[2022/05/10 11:20:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 11:20:01.6398  max_granted_credit: 73000000.000000
+2022-05-10 11:20:01.6398  Starting validator, debug level 3
+2022-05-10 11:20:01.6401 [CRITICAL] can't find app example_app
+[2022/05/10 11:25:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 11:25:02.2721  max_granted_credit: 73000000.000000
+2022-05-10 11:25:02.2721  Starting validator, debug level 3
+2022-05-10 11:25:02.2724 [CRITICAL] can't find app example_app
+[2022/05/10 11:30:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 11:30:01.9061  max_granted_credit: 73000000.000000
+2022-05-10 11:30:01.9062  Starting validator, debug level 3
+2022-05-10 11:30:01.9065 [CRITICAL] can't find app example_app
+[2022/05/10 11:35:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 11:35:01.6382  max_granted_credit: 73000000.000000
+2022-05-10 11:35:01.6383  Starting validator, debug level 3
+2022-05-10 11:35:01.6386 [CRITICAL] can't find app example_app
+[2022/05/10 11:40:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 11:40:02.2747  max_granted_credit: 73000000.000000
+2022-05-10 11:40:02.2747  Starting validator, debug level 3
+2022-05-10 11:40:02.2750 [CRITICAL] can't find app example_app
+[2022/05/10 11:45:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 11:45:01.9053  max_granted_credit: 73000000.000000
+2022-05-10 11:45:01.9054  Starting validator, debug level 3
+2022-05-10 11:45:01.9057 [CRITICAL] can't find app example_app
+[2022/05/10 11:50:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 11:50:01.5382  max_granted_credit: 73000000.000000
+2022-05-10 11:50:01.5382  Starting validator, debug level 3
+2022-05-10 11:50:01.5385 [CRITICAL] can't find app example_app
+[2022/05/10 11:55:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 11:55:02.1690  max_granted_credit: 73000000.000000
+2022-05-10 11:55:02.1690  Starting validator, debug level 3
+2022-05-10 11:55:02.1694 [CRITICAL] can't find app example_app
+[2022/05/10 12:00:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 12:00:01.8001  max_granted_credit: 73000000.000000
+2022-05-10 12:00:01.8001  Starting validator, debug level 3
+2022-05-10 12:00:01.8005 [CRITICAL] can't find app example_app
+[2022/05/10 12:05:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 12:05:01.4314  max_granted_credit: 73000000.000000
+2022-05-10 12:05:01.4314  Starting validator, debug level 3
+2022-05-10 12:05:01.4317 [CRITICAL] can't find app example_app
+[2022/05/10 12:10:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 12:10:02.0652  max_granted_credit: 73000000.000000
+2022-05-10 12:10:02.0652  Starting validator, debug level 3
+2022-05-10 12:10:02.0655 [CRITICAL] can't find app example_app
+[2022/05/10 12:15:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 12:15:01.6972  max_granted_credit: 73000000.000000
+2022-05-10 12:15:01.6972  Starting validator, debug level 3
+2022-05-10 12:15:01.6976 [CRITICAL] can't find app example_app
+[2022/05/10 12:20:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 12:20:02.3314  max_granted_credit: 73000000.000000
+2022-05-10 12:20:02.3315  Starting validator, debug level 3
+2022-05-10 12:20:02.3318 [CRITICAL] can't find app example_app
+[2022/05/10 12:25:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 12:25:01.9617  max_granted_credit: 73000000.000000
+2022-05-10 12:25:01.9617  Starting validator, debug level 3
+2022-05-10 12:25:01.9620 [CRITICAL] can't find app example_app
+[2022/05/10 12:30:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 12:30:01.5940  max_granted_credit: 73000000.000000
+2022-05-10 12:30:01.5940  Starting validator, debug level 3
+2022-05-10 12:30:01.5943 [CRITICAL] can't find app example_app
+[2022/05/10 12:35:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 12:35:02.3250  max_granted_credit: 73000000.000000
+2022-05-10 12:35:02.3250  Starting validator, debug level 3
+2022-05-10 12:35:02.3254 [CRITICAL] can't find app example_app
+[2022/05/10 12:40:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 12:40:01.9604  max_granted_credit: 73000000.000000
+2022-05-10 12:40:01.9604  Starting validator, debug level 3
+2022-05-10 12:40:01.9608 [CRITICAL] can't find app example_app
+[2022/05/10 12:45:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 12:45:01.5906  max_granted_credit: 73000000.000000
+2022-05-10 12:45:01.5907  Starting validator, debug level 3
+2022-05-10 12:45:01.5910 [CRITICAL] can't find app example_app
+[2022/05/10 12:50:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 12:50:02.2218  max_granted_credit: 73000000.000000
+2022-05-10 12:50:02.2218  Starting validator, debug level 3
+2022-05-10 12:50:02.2221 [CRITICAL] can't find app example_app
+[2022/05/10 12:55:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 12:55:01.8534  max_granted_credit: 73000000.000000
+2022-05-10 12:55:01.8534  Starting validator, debug level 3
+2022-05-10 12:55:01.8537 [CRITICAL] can't find app example_app
+[2022/05/10 13:00:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 13:00:01.4849  max_granted_credit: 73000000.000000
+2022-05-10 13:00:01.4849  Starting validator, debug level 3
+2022-05-10 13:00:01.4852 [CRITICAL] can't find app example_app
+[2022/05/10 13:05:01] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-05-10 13:05:02.1268  max_granted_credit: 73000000.000000
+2022-05-10 13:05:02.1269  Starting validator, debug level 3

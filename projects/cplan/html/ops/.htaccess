@@ -1,0 +1,5 @@
+
+AuthName "cplan"
+AuthType Basic
+AuthUserFile /home/rutoves/projects/cplan//html/ops/.htpasswd
+require valid-user

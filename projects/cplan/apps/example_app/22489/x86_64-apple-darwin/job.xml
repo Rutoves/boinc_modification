@@ -1,0 +1,6 @@
+<job_desc>
+    <task>
+        <application>worker</application>
+	<copy_file/>
+    </task>
+</job_desc>

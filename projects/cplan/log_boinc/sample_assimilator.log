@@ -1,0 +1,66 @@
+[2022/05/10 10:29:33] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 10:29:33.6360 [CRITICAL] Can't find app: example_app
+[2022/05/10 10:30:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 10:30:02.4973 [CRITICAL] Can't find app: example_app
+[2022/05/10 10:35:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 10:35:02.0340 [CRITICAL] Can't find app: example_app
+[2022/05/10 10:40:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 10:40:01.6685 [CRITICAL] Can't find app: example_app
+[2022/05/10 10:45:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 10:45:02.3005 [CRITICAL] Can't find app: example_app
+[2022/05/10 10:50:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 10:50:01.9303 [CRITICAL] Can't find app: example_app
+[2022/05/10 10:55:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 10:55:01.5614 [CRITICAL] Can't find app: example_app
+[2022/05/10 11:00:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 11:00:02.1955 [CRITICAL] Can't find app: example_app
+[2022/05/10 11:05:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 11:05:01.8263 [CRITICAL] Can't find app: example_app
+[2022/05/10 11:10:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 11:10:02.4638 [CRITICAL] Can't find app: example_app
+[2022/05/10 11:15:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 11:15:02.0950 [CRITICAL] Can't find app: example_app
+[2022/05/10 11:20:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 11:20:01.7406 [CRITICAL] Can't find app: example_app
+[2022/05/10 11:25:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 11:25:02.3730 [CRITICAL] Can't find app: example_app
+[2022/05/10 11:30:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 11:30:02.0077 [CRITICAL] Can't find app: example_app
+[2022/05/10 11:35:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 11:35:01.7389 [CRITICAL] Can't find app: example_app
+[2022/05/10 11:40:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 11:40:02.3755 [CRITICAL] Can't find app: example_app
+[2022/05/10 11:45:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 11:45:02.0130 [CRITICAL] Can't find app: example_app
+[2022/05/10 11:50:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 11:50:01.6386 [CRITICAL] Can't find app: example_app
+[2022/05/10 11:55:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 11:55:02.2696 [CRITICAL] Can't find app: example_app
+[2022/05/10 12:00:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 12:00:01.9010 [CRITICAL] Can't find app: example_app
+[2022/05/10 12:05:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 12:05:01.5322 [CRITICAL] Can't find app: example_app
+[2022/05/10 12:10:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 12:10:02.1660 [CRITICAL] Can't find app: example_app
+[2022/05/10 12:15:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 12:15:01.7975 [CRITICAL] Can't find app: example_app
+[2022/05/10 12:20:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 12:20:02.4322 [CRITICAL] Can't find app: example_app
+[2022/05/10 12:25:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 12:25:02.0628 [CRITICAL] Can't find app: example_app
+[2022/05/10 12:30:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 12:30:01.6953 [CRITICAL] Can't find app: example_app
+[2022/05/10 12:35:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 12:35:02.4259 [CRITICAL] Can't find app: example_app
+[2022/05/10 12:40:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 12:40:02.0615 [CRITICAL] Can't find app: example_app
+[2022/05/10 12:45:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 12:45:01.6921 [CRITICAL] Can't find app: example_app
+[2022/05/10 12:50:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 12:50:02.3225 [CRITICAL] Can't find app: example_app
+[2022/05/10 12:55:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 12:55:01.9536 [CRITICAL] Can't find app: example_app
+[2022/05/10 13:00:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 13:00:01.5860 [CRITICAL] Can't find app: example_app
+[2022/05/10 13:05:01] Executing command: sample_assimilator -d 3 --app example_app
+2022-05-10 13:05:02.2273  Starting assimilator handler

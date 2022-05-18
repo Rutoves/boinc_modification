@@ -1,0 +1,6 @@
+2022-05-10 10:30:02.5980 [CRITICAL] Couldn't find http_user 'apache' in passwd
+2022-05-10 10:30:02.5980 [CRITICAL] delete_antiques() returned with error -1
+2022-05-11 10:30:02.3702 [CRITICAL] Couldn't find http_user 'apache' in passwd
+2022-05-11 10:30:02.3977 [CRITICAL] delete_antiques() returned with error -1
+2022-05-12 10:30:02.2401 [CRITICAL] Couldn't find http_user 'apache' in passwd
+2022-05-12 10:30:02.2508 [CRITICAL] delete_antiques() returned with error -1
