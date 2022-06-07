@@ -1,0 +1,5 @@
+
+AuthName "test_algo"
+AuthType Basic
+AuthUserFile /home/rutoves/projects/test_algo//html/ops/.htpasswd
+require valid-user

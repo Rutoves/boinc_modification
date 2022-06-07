@@ -330,6 +330,10 @@ static bool get_job_from_db(
                     // bump the infeasible count to encourage
                     // it to get sent more quickly
                     //
+                    if (ssp->max_fpops < ssp->wu_results[j].fpops_size) {
+                        ssp->max_fpops = ssp->wu_results[j].fpops_size;
+                    }
+
                     if (ssp->wu_results[j].infeasible_count == 0) {
                         if (wi.wu.hr_class > 0) {
                             ssp->wu_results[j].infeasible_count++;

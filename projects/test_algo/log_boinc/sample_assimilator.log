@@ -1,0 +1,3 @@
+[2022/06/02 17:04:16] Executing command: sample_assimilator -d 3 --app example_app
+2022-06-02 17:04:16.6811  Starting assimilator handler
+2022-06-02 17:44:07.1465  Assimilated 1 workunits.

@@ -1,0 +1,4 @@
+
+<!-- <scheduler>http://51.250.92.49/test_algo_cgi/cgi</scheduler> -->"
+<link rel="boinc_scheduler" href="url"">
+        

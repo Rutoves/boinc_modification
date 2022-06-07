@@ -1,0 +1,3 @@
+[2022/06/02 17:04:16] Executing command: sample_bitwise_validator -d 3 --app example_app
+2022-06-02 17:04:16.5800  max_granted_credit: 73000000.000000
+2022-06-02 17:04:16.5801  Starting validator, debug level 3

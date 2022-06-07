@@ -1,0 +1,14 @@
+[2022/06/02 17:04:16] Executing command: feeder -d 3
+2022-06-02 17:04:16.2763  Starting
+2022-06-02 17:04:16.2763  8ddc1d2aef5391d342c67a43cff8c2b474e149a3 [https://github.com/BOINC/boinc] (boinc:/home/rutoves/boinc [(HEAD detached at client_release/7.16/7.16.21)]) [Server-Release: server_release/1.1/1.1.0]
+have apps for CPU: yes
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Miner ASIC: no
+2022-06-02 17:04:16.2972  read 15 platforms, 1 apps, 2 app_versions, 0 assignments
+2022-06-02 17:04:16.2972  Using 100 job slots
+2022-06-02 17:04:21.2990  adding result [RESULT#1] in slot 0
+2022-06-02 17:04:21.2991  adding result [RESULT#2] in slot 1
+2022-06-02 17:16:51.4982  adding result [RESULT#3] in slot 0
+2022-06-02 17:16:51.4983  adding result [RESULT#4] in slot 1

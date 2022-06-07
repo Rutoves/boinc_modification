@@ -1,0 +1,11 @@
+[2022/06/02 17:04:16] Executing command: transitioner -d 3
+2022-06-02 17:04:16.3771  Starting
+2022-06-02 17:04:16.3797  [WU#1 test_sort2] Generating 2 more results (2 target - 0 unsent - 0 in progress - 0 success)
+2022-06-02 17:16:46.6067  [WU#1 test_sort2] Generating 2 more results (2 target - 0 unsent - 0 in progress - 0 success)
+2022-06-02 17:44:02.0725  [WU#1 test_sort2] WU has too many errors (4 errors for 4 results)
+2022-06-02 17:44:02.0725  [WU#1 test_sort2] error_mask:2 assimilate_state:INIT=>READY
+2022-06-02 17:44:12.0969  [WU#1 test_sort2] WU has too many errors (4 errors for 4 results)
+2022-06-02 17:44:12.0970  [WU#1 test_sort2] [RESULT#1 test_sort2_0] file_delete_state:=>READY
+2022-06-02 17:44:12.1013  [WU#1 test_sort2] [RESULT#2 test_sort2_1] file_delete_state:=>READY
+2022-06-02 17:44:12.1026  [WU#1 test_sort2] [RESULT#3 test_sort2_2] file_delete_state:=>READY
+2022-06-02 17:44:12.1108  [WU#1 test_sort2] [RESULT#4 test_sort2_3] file_delete_state:=>READY

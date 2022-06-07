@@ -1,0 +1,1601 @@
+[2022/06/02 17:04:16] Executing command: file_deleter -d 3
+2022-06-02 17:04:16.4773  Starting
+2022-06-02 17:44:12.1488 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-02 17:44:12.1488 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-02 17:44:12.1521 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-02 17:44:12.1521 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-02 17:44:12.1547 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-02 17:44:12.1547 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-02 17:44:12.1574 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-02 17:44:12.1574 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-02 17:44:12.1585  [WU#1] deleting input0.txt
+2022-06-02 17:44:12.1586 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-02 17:44:12.1586  [WU#1] deleting input0.txt.md5
+2022-06-02 17:44:12.1586 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-02 17:44:12.1586 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-02 18:04:17.4806 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-02 18:04:17.4806 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-02 18:04:17.4806 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-02 18:04:17.4806 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-02 18:04:17.4807 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-02 18:04:17.4807 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-02 18:04:17.4807 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-02 18:04:17.4807 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-02 18:04:17.4808  [WU#1] deleting input0.txt
+2022-06-02 18:04:17.4808 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-02 18:04:17.4809  [WU#1] deleting input0.txt.md5
+2022-06-02 18:04:17.4809 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-02 18:04:17.4809 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-02 19:04:18.4432 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-02 19:04:18.4432 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-02 19:04:18.4432 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-02 19:04:18.4432 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-02 19:04:18.4433 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-02 19:04:18.4433 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-02 19:04:18.4433 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-02 19:04:18.4433 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-02 19:04:18.4434  [WU#1] deleting input0.txt
+2022-06-02 19:04:18.4434 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-02 19:04:18.4435  [WU#1] deleting input0.txt.md5
+2022-06-02 19:04:18.4435 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-02 19:04:18.4435 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-02 20:04:19.3347 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-02 20:04:19.3348 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-02 20:04:19.3348 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-02 20:04:19.3348 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-02 20:04:19.3348 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-02 20:04:19.3348 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-02 20:04:19.3348 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-02 20:04:19.3348 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-02 20:04:19.3350  [WU#1] deleting input0.txt
+2022-06-02 20:04:19.3350 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-02 20:04:19.3350  [WU#1] deleting input0.txt.md5
+2022-06-02 20:04:19.3350 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-02 20:04:19.3350 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-02 21:04:20.2351 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-02 21:04:20.2351 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-02 21:04:20.2351 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-02 21:04:20.2351 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-02 21:04:20.2352 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-02 21:04:20.2352 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-02 21:04:20.2352 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-02 21:04:20.2352 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-02 21:04:20.2353  [WU#1] deleting input0.txt
+2022-06-02 21:04:20.2353 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-02 21:04:20.2353  [WU#1] deleting input0.txt.md5
+2022-06-02 21:04:20.2354 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-02 21:04:20.2354 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-02 22:04:21.1424 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-02 22:04:21.1425 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-02 22:04:21.1425 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-02 22:04:21.1425 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-02 22:04:21.1425 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-02 22:04:21.1425 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-02 22:04:21.1425 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-02 22:04:21.1425 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-02 22:04:21.1427  [WU#1] deleting input0.txt
+2022-06-02 22:04:21.1427 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-02 22:04:21.1427  [WU#1] deleting input0.txt.md5
+2022-06-02 22:04:21.1427 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-02 22:04:21.1427 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-02 23:04:21.9401 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-02 23:04:21.9402 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-02 23:04:21.9402 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-02 23:04:21.9402 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-02 23:04:21.9402 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-02 23:04:21.9402 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-02 23:04:21.9402 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-02 23:04:21.9402 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-02 23:04:21.9404  [WU#1] deleting input0.txt
+2022-06-02 23:04:21.9404 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-02 23:04:21.9404  [WU#1] deleting input0.txt.md5
+2022-06-02 23:04:21.9404 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-02 23:04:21.9404 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 00:04:22.8231 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 00:04:22.8231 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 00:04:22.8231 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 00:04:22.8231 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 00:04:22.8231 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 00:04:22.8231 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 00:04:22.8232 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 00:04:22.8232 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 00:04:22.8234  [WU#1] deleting input0.txt
+2022-06-03 00:04:22.8234 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 00:04:22.8234  [WU#1] deleting input0.txt.md5
+2022-06-03 00:04:22.8234 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 00:04:22.8234 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 01:04:23.6888 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 01:04:23.6888 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 01:04:23.6888 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 01:04:23.6889 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 01:04:23.6889 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 01:04:23.6889 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 01:04:23.6889 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 01:04:23.6889 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 01:04:23.6891  [WU#1] deleting input0.txt
+2022-06-03 01:04:23.6892 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 01:04:23.6892  [WU#1] deleting input0.txt.md5
+2022-06-03 01:04:23.6892 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 01:04:23.6892 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 02:04:24.5682 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 02:04:24.5683 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 02:04:24.5683 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 02:04:24.5683 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 02:04:24.5683 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 02:04:24.5683 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 02:04:24.5683 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 02:04:24.5683 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 02:04:24.5685  [WU#1] deleting input0.txt
+2022-06-03 02:04:24.5685 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 02:04:24.5685  [WU#1] deleting input0.txt.md5
+2022-06-03 02:04:24.5685 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 02:04:24.5685 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 03:04:25.4577 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 03:04:25.4578 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 03:04:25.4578 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 03:04:25.4578 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 03:04:25.4578 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 03:04:25.4578 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 03:04:25.4579 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 03:04:25.4579 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 03:04:25.4581  [WU#1] deleting input0.txt
+2022-06-03 03:04:25.4581 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 03:04:25.4581  [WU#1] deleting input0.txt.md5
+2022-06-03 03:04:25.4581 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 03:04:25.4581 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 04:04:26.3206 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 04:04:26.3207 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 04:04:26.3207 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 04:04:26.3207 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 04:04:26.3207 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 04:04:26.3208 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 04:04:26.3208 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 04:04:26.3208 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 04:04:26.3210  [WU#1] deleting input0.txt
+2022-06-03 04:04:26.3210 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 04:04:26.3210  [WU#1] deleting input0.txt.md5
+2022-06-03 04:04:26.3210 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 04:04:26.3210 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 05:04:27.1109 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 05:04:27.1109 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 05:04:27.1109 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 05:04:27.1109 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 05:04:27.1110 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 05:04:27.1110 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 05:04:27.1110 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 05:04:27.1110 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 05:04:27.1112  [WU#1] deleting input0.txt
+2022-06-03 05:04:27.1112 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 05:04:27.1112  [WU#1] deleting input0.txt.md5
+2022-06-03 05:04:27.1112 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 05:04:27.1112 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 06:04:28.0276 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 06:04:28.0276 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 06:04:28.0276 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 06:04:28.0277 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 06:04:28.0277 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 06:04:28.0277 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 06:04:28.0277 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 06:04:28.0277 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 06:04:28.0279  [WU#1] deleting input0.txt
+2022-06-03 06:04:28.0279 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 06:04:28.0279  [WU#1] deleting input0.txt.md5
+2022-06-03 06:04:28.0279 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 06:04:28.0279 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 07:04:28.9348 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 07:04:28.9348 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 07:04:28.9348 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 07:04:28.9348 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 07:04:28.9348 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 07:04:28.9348 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 07:04:28.9349 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 07:04:28.9349 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 07:04:28.9350  [WU#1] deleting input0.txt
+2022-06-03 07:04:28.9351 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 07:04:28.9351  [WU#1] deleting input0.txt.md5
+2022-06-03 07:04:28.9351 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 07:04:28.9351 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 08:04:29.8582 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 08:04:29.8583 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 08:04:29.8583 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 08:04:29.8583 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 08:04:29.8583 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 08:04:29.8583 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 08:04:29.8584 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 08:04:29.8584 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 08:04:29.8586  [WU#1] deleting input0.txt
+2022-06-03 08:04:29.8586 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 08:04:29.8586  [WU#1] deleting input0.txt.md5
+2022-06-03 08:04:29.8586 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 08:04:29.8586 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 09:04:30.7783 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 09:04:30.7784 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 09:04:30.7784 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 09:04:30.7784 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 09:04:30.7784 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 09:04:30.7784 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 09:04:30.7785 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 09:04:30.7785 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 09:04:30.7786  [WU#1] deleting input0.txt
+2022-06-03 09:04:30.7787 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 09:04:30.7787  [WU#1] deleting input0.txt.md5
+2022-06-03 09:04:30.7787 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 09:04:30.7787 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 10:04:31.7124 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 10:04:31.7124 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 10:04:31.7124 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 10:04:31.7124 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 10:04:31.7124 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 10:04:31.7124 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 10:04:31.7125 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 10:04:31.7125 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 10:04:31.7127  [WU#1] deleting input0.txt
+2022-06-03 10:04:31.7127 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 10:04:31.7127  [WU#1] deleting input0.txt.md5
+2022-06-03 10:04:31.7127 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 10:04:31.7127 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 11:04:32.6455 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 11:04:32.6455 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 11:04:32.6456 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 11:04:32.6456 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 11:04:32.6456 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 11:04:32.6456 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 11:04:32.6456 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 11:04:32.6456 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 11:04:32.6458  [WU#1] deleting input0.txt
+2022-06-03 11:04:32.6458 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 11:04:32.6458  [WU#1] deleting input0.txt.md5
+2022-06-03 11:04:32.6458 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 11:04:32.6458 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 12:04:33.5325 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 12:04:33.5325 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 12:04:33.5326 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 12:04:33.5326 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 12:04:33.5326 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 12:04:33.5326 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 12:04:33.5326 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 12:04:33.5326 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 12:04:33.5328  [WU#1] deleting input0.txt
+2022-06-03 12:04:33.5328 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 12:04:33.5328  [WU#1] deleting input0.txt.md5
+2022-06-03 12:04:33.5328 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 12:04:33.5328 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 13:04:34.4648 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 13:04:34.4649 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 13:04:34.4649 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 13:04:34.4649 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 13:04:34.4649 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 13:04:34.4649 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 13:04:34.4649 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 13:04:34.4649 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 13:04:34.4651  [WU#1] deleting input0.txt
+2022-06-03 13:04:34.4651 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 13:04:34.4651  [WU#1] deleting input0.txt.md5
+2022-06-03 13:04:34.4651 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 13:04:34.4651 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 14:04:35.3718 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 14:04:35.3718 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 14:04:35.3719 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 14:04:35.3719 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 14:04:35.3719 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 14:04:35.3719 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 14:04:35.3719 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 14:04:35.3719 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 14:04:35.3721  [WU#1] deleting input0.txt
+2022-06-03 14:04:35.3721 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 14:04:35.3721  [WU#1] deleting input0.txt.md5
+2022-06-03 14:04:35.3721 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 14:04:35.3721 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 15:04:36.2926 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 15:04:36.2926 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 15:04:36.2927 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 15:04:36.2927 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 15:04:36.2927 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 15:04:36.2927 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 15:04:36.2927 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 15:04:36.2927 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 15:04:36.2929  [WU#1] deleting input0.txt
+2022-06-03 15:04:36.2929 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 15:04:36.2929  [WU#1] deleting input0.txt.md5
+2022-06-03 15:04:36.2929 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 15:04:36.2929 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 16:04:37.2196 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 16:04:37.2197 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 16:04:37.2197 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 16:04:37.2197 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 16:04:37.2197 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 16:04:37.2197 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 16:04:37.2197 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 16:04:37.2197 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 16:04:37.2199  [WU#1] deleting input0.txt
+2022-06-03 16:04:37.2199 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 16:04:37.2199  [WU#1] deleting input0.txt.md5
+2022-06-03 16:04:37.2199 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 16:04:37.2199 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 17:04:38.1040 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 17:04:38.1040 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 17:04:38.1040 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 17:04:38.1040 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 17:04:38.1040 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 17:04:38.1041 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 17:04:38.1041 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 17:04:38.1041 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 17:04:38.1043  [WU#1] deleting input0.txt
+2022-06-03 17:04:38.1043 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 17:04:38.1043  [WU#1] deleting input0.txt.md5
+2022-06-03 17:04:38.1043 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 17:04:38.1043 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 18:04:39.0113 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 18:04:39.0113 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 18:04:39.0113 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 18:04:39.0113 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 18:04:39.0114 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 18:04:39.0114 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 18:04:39.0114 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 18:04:39.0114 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 18:04:39.0115  [WU#1] deleting input0.txt
+2022-06-03 18:04:39.0116 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 18:04:39.0116  [WU#1] deleting input0.txt.md5
+2022-06-03 18:04:39.0116 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 18:04:39.0116 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 19:04:39.9072 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 19:04:39.9073 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 19:04:39.9073 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 19:04:39.9073 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 19:04:39.9073 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 19:04:39.9073 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 19:04:39.9073 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 19:04:39.9074 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 19:04:39.9075  [WU#1] deleting input0.txt
+2022-06-03 19:04:39.9075 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 19:04:39.9075  [WU#1] deleting input0.txt.md5
+2022-06-03 19:04:39.9075 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 19:04:39.9075 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 20:04:40.7840 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 20:04:40.7841 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 20:04:40.7841 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 20:04:40.7841 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 20:04:40.7841 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 20:04:40.7841 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 20:04:40.7841 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 20:04:40.7841 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 20:04:40.7844  [WU#1] deleting input0.txt
+2022-06-03 20:04:40.7844 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 20:04:40.7844  [WU#1] deleting input0.txt.md5
+2022-06-03 20:04:40.7844 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 20:04:40.7844 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 21:04:41.6868 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 21:04:41.6869 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 21:04:41.6869 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 21:04:41.6869 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 21:04:41.6869 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 21:04:41.6869 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 21:04:41.6870 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 21:04:41.6870 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 21:04:41.6872  [WU#1] deleting input0.txt
+2022-06-03 21:04:41.6872 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 21:04:41.6872  [WU#1] deleting input0.txt.md5
+2022-06-03 21:04:41.6872 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 21:04:41.6872 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 22:04:42.5770 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 22:04:42.5770 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 22:04:42.5770 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 22:04:42.5770 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 22:04:42.5771 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 22:04:42.5771 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 22:04:42.5771 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 22:04:42.5771 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 22:04:42.5772  [WU#1] deleting input0.txt
+2022-06-03 22:04:42.5772 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 22:04:42.5773  [WU#1] deleting input0.txt.md5
+2022-06-03 22:04:42.5773 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 22:04:42.5773 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-03 23:04:43.4376 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-03 23:04:43.4376 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-03 23:04:43.4377 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-03 23:04:43.4377 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-03 23:04:43.4377 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-03 23:04:43.4377 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-03 23:04:43.4377 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-03 23:04:43.4377 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-03 23:04:43.4379  [WU#1] deleting input0.txt
+2022-06-03 23:04:43.4379 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-03 23:04:43.4379  [WU#1] deleting input0.txt.md5
+2022-06-03 23:04:43.4380 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-03 23:04:43.4380 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 00:04:44.2826 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 00:04:44.2827 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 00:04:44.2827 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 00:04:44.2827 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 00:04:44.2827 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 00:04:44.2827 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 00:04:44.2827 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 00:04:44.2827 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 00:04:44.2830  [WU#1] deleting input0.txt
+2022-06-04 00:04:44.2830 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 00:04:44.2830  [WU#1] deleting input0.txt.md5
+2022-06-04 00:04:44.2830 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 00:04:44.2830 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 01:04:45.1917 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 01:04:45.1917 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 01:04:45.1917 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 01:04:45.1917 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 01:04:45.1918 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 01:04:45.1918 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 01:04:45.1918 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 01:04:45.1918 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 01:04:45.1919  [WU#1] deleting input0.txt
+2022-06-04 01:04:45.1919 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 01:04:45.1919  [WU#1] deleting input0.txt.md5
+2022-06-04 01:04:45.1920 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 01:04:45.1920 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 02:04:46.0820 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 02:04:46.0821 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 02:04:46.0821 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 02:04:46.0821 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 02:04:46.0821 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 02:04:46.0821 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 02:04:46.0822 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 02:04:46.0822 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 02:04:46.0823  [WU#1] deleting input0.txt
+2022-06-04 02:04:46.0823 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 02:04:46.0823  [WU#1] deleting input0.txt.md5
+2022-06-04 02:04:46.0823 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 02:04:46.0823 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 03:04:46.9847 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 03:04:46.9848 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 03:04:46.9848 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 03:04:46.9848 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 03:04:46.9848 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 03:04:46.9848 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 03:04:46.9848 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 03:04:46.9848 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 03:04:46.9850  [WU#1] deleting input0.txt
+2022-06-04 03:04:46.9850 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 03:04:46.9850  [WU#1] deleting input0.txt.md5
+2022-06-04 03:04:46.9850 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 03:04:46.9850 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 04:04:47.8851 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 04:04:47.8851 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 04:04:47.8852 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 04:04:47.8852 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 04:04:47.8852 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 04:04:47.8852 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 04:04:47.8852 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 04:04:47.8852 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 04:04:47.8854  [WU#1] deleting input0.txt
+2022-06-04 04:04:47.8854 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 04:04:47.8854  [WU#1] deleting input0.txt.md5
+2022-06-04 04:04:47.8855 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 04:04:47.8855 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 05:04:48.7004 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 05:04:48.7005 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 05:04:48.7005 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 05:04:48.7005 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 05:04:48.7005 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 05:04:48.7005 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 05:04:48.7006 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 05:04:48.7006 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 05:04:48.7007  [WU#1] deleting input0.txt
+2022-06-04 05:04:48.7007 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 05:04:48.7007  [WU#1] deleting input0.txt.md5
+2022-06-04 05:04:48.7007 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 05:04:48.7008 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 06:04:49.5990 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 06:04:49.5990 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 06:04:49.5991 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 06:04:49.5991 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 06:04:49.5991 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 06:04:49.5991 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 06:04:49.5991 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 06:04:49.5991 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 06:04:49.5994  [WU#1] deleting input0.txt
+2022-06-04 06:04:49.5994 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 06:04:49.5994  [WU#1] deleting input0.txt.md5
+2022-06-04 06:04:49.5994 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 06:04:49.5994 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 07:04:50.5346 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 07:04:50.5346 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 07:04:50.5346 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 07:04:50.5346 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 07:04:50.5346 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 07:04:50.5346 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 07:04:50.5347 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 07:04:50.5347 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 07:04:50.5348  [WU#1] deleting input0.txt
+2022-06-04 07:04:50.5349 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 07:04:50.5349  [WU#1] deleting input0.txt.md5
+2022-06-04 07:04:50.5349 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 07:04:50.5349 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 08:04:51.4436 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 08:04:51.4437 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 08:04:51.4437 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 08:04:51.4437 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 08:04:51.4437 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 08:04:51.4437 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 08:04:51.4437 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 08:04:51.4437 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 08:04:51.4439  [WU#1] deleting input0.txt
+2022-06-04 08:04:51.4439 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 08:04:51.4439  [WU#1] deleting input0.txt.md5
+2022-06-04 08:04:51.4440 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 08:04:51.4440 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 09:04:52.3782 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 09:04:52.3782 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 09:04:52.3782 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 09:04:52.3783 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 09:04:52.3783 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 09:04:52.3783 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 09:04:52.3783 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 09:04:52.3783 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 09:04:52.3785  [WU#1] deleting input0.txt
+2022-06-04 09:04:52.3785 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 09:04:52.3785  [WU#1] deleting input0.txt.md5
+2022-06-04 09:04:52.3785 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 09:04:52.3785 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 10:04:53.2413 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 10:04:53.2414 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 10:04:53.2414 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 10:04:53.2414 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 10:04:53.2414 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 10:04:53.2414 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 10:04:53.2414 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 10:04:53.2414 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 10:04:53.2416  [WU#1] deleting input0.txt
+2022-06-04 10:04:53.2417 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 10:04:53.2417  [WU#1] deleting input0.txt.md5
+2022-06-04 10:04:53.2417 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 10:04:53.2417 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 11:04:54.0226 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 11:04:54.0227 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 11:04:54.0227 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 11:04:54.0227 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 11:04:54.0227 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 11:04:54.0227 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 11:04:54.0227 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 11:04:54.0227 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 11:04:54.0229  [WU#1] deleting input0.txt
+2022-06-04 11:04:54.0229 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 11:04:54.0229  [WU#1] deleting input0.txt.md5
+2022-06-04 11:04:54.0229 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 11:04:54.0229 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 12:04:54.8507 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 12:04:54.8507 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 12:04:54.8507 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 12:04:54.8507 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 12:04:54.8507 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 12:04:54.8508 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 12:04:54.8508 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 12:04:54.8508 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 12:04:54.8509  [WU#1] deleting input0.txt
+2022-06-04 12:04:54.8509 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 12:04:54.8510  [WU#1] deleting input0.txt.md5
+2022-06-04 12:04:54.8510 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 12:04:54.8510 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 13:04:55.7499 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 13:04:55.7499 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 13:04:55.7499 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 13:04:55.7499 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 13:04:55.7499 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 13:04:55.7500 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 13:04:55.7500 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 13:04:55.7500 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 13:04:55.7502  [WU#1] deleting input0.txt
+2022-06-04 13:04:55.7502 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 13:04:55.7502  [WU#1] deleting input0.txt.md5
+2022-06-04 13:04:55.7502 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 13:04:55.7502 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 14:04:56.6915 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 14:04:56.6916 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 14:04:56.6916 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 14:04:56.6916 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 14:04:56.6916 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 14:04:56.6916 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 14:04:56.6916 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 14:04:56.6916 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 14:04:56.6919  [WU#1] deleting input0.txt
+2022-06-04 14:04:56.6919 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 14:04:56.6919  [WU#1] deleting input0.txt.md5
+2022-06-04 14:04:56.6919 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 14:04:56.6919 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 15:04:57.6388 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 15:04:57.6389 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 15:04:57.6389 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 15:04:57.6389 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 15:04:57.6389 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 15:04:57.6389 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 15:04:57.6389 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 15:04:57.6390 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 15:04:57.6391  [WU#1] deleting input0.txt
+2022-06-04 15:04:57.6391 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 15:04:57.6391  [WU#1] deleting input0.txt.md5
+2022-06-04 15:04:57.6391 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 15:04:57.6391 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 16:04:58.5677 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 16:04:58.5678 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 16:04:58.5678 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 16:04:58.5678 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 16:04:58.5678 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 16:04:58.5678 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 16:04:58.5678 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 16:04:58.5678 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 16:04:58.5680  [WU#1] deleting input0.txt
+2022-06-04 16:04:58.5680 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 16:04:58.5680  [WU#1] deleting input0.txt.md5
+2022-06-04 16:04:58.5680 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 16:04:58.5680 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 17:04:59.4823 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 17:04:59.4823 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 17:04:59.4823 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 17:04:59.4824 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 17:04:59.4824 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 17:04:59.4824 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 17:04:59.4824 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 17:04:59.4824 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 17:04:59.4827  [WU#1] deleting input0.txt
+2022-06-04 17:04:59.4827 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 17:04:59.4827  [WU#1] deleting input0.txt.md5
+2022-06-04 17:04:59.4827 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 17:04:59.4827 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 18:05:00.3310 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 18:05:00.3310 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 18:05:00.3310 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 18:05:00.3310 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 18:05:00.3311 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 18:05:00.3311 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 18:05:00.3311 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 18:05:00.3311 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 18:05:00.3313  [WU#1] deleting input0.txt
+2022-06-04 18:05:00.3313 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 18:05:00.3313  [WU#1] deleting input0.txt.md5
+2022-06-04 18:05:00.3313 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 18:05:00.3314 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 19:05:01.2130 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 19:05:01.2130 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 19:05:01.2131 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 19:05:01.2131 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 19:05:01.2131 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 19:05:01.2131 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 19:05:01.2131 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 19:05:01.2131 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 19:05:01.2133  [WU#1] deleting input0.txt
+2022-06-04 19:05:01.2133 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 19:05:01.2133  [WU#1] deleting input0.txt.md5
+2022-06-04 19:05:01.2133 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 19:05:01.2133 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 20:05:02.1333 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 20:05:02.1333 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 20:05:02.1334 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 20:05:02.1334 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 20:05:02.1334 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 20:05:02.1334 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 20:05:02.1334 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 20:05:02.1334 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 20:05:02.1336  [WU#1] deleting input0.txt
+2022-06-04 20:05:02.1336 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 20:05:02.1336  [WU#1] deleting input0.txt.md5
+2022-06-04 20:05:02.1336 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 20:05:02.1336 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 21:05:03.0255 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 21:05:03.0255 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 21:05:03.0255 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 21:05:03.0255 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 21:05:03.0255 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 21:05:03.0256 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 21:05:03.0256 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 21:05:03.0256 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 21:05:03.0257  [WU#1] deleting input0.txt
+2022-06-04 21:05:03.0258 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 21:05:03.0258  [WU#1] deleting input0.txt.md5
+2022-06-04 21:05:03.0258 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 21:05:03.0258 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 22:05:03.9390 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 22:05:03.9390 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 22:05:03.9390 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 22:05:03.9390 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 22:05:03.9390 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 22:05:03.9390 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 22:05:03.9391 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 22:05:03.9391 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 22:05:03.9392  [WU#1] deleting input0.txt
+2022-06-04 22:05:03.9392 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 22:05:03.9393  [WU#1] deleting input0.txt.md5
+2022-06-04 22:05:03.9393 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 22:05:03.9393 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-04 23:05:04.8380 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-04 23:05:04.8380 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-04 23:05:04.8380 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-04 23:05:04.8380 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-04 23:05:04.8381 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-04 23:05:04.8381 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-04 23:05:04.8381 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-04 23:05:04.8381 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-04 23:05:04.8382  [WU#1] deleting input0.txt
+2022-06-04 23:05:04.8383 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-04 23:05:04.8383  [WU#1] deleting input0.txt.md5
+2022-06-04 23:05:04.8383 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-04 23:05:04.8383 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 00:05:05.6262 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 00:05:05.6263 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 00:05:05.6263 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 00:05:05.6263 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 00:05:05.6263 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 00:05:05.6263 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 00:05:05.6264 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 00:05:05.6264 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 00:05:05.6266  [WU#1] deleting input0.txt
+2022-06-05 00:05:05.6266 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 00:05:05.6266  [WU#1] deleting input0.txt.md5
+2022-06-05 00:05:05.6266 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 00:05:05.6267 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 01:05:06.3802 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 01:05:06.3803 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 01:05:06.3803 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 01:05:06.3803 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 01:05:06.3803 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 01:05:06.3803 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 01:05:06.3804 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 01:05:06.3804 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 01:05:06.3805  [WU#1] deleting input0.txt
+2022-06-05 01:05:06.3805 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 01:05:06.3805  [WU#1] deleting input0.txt.md5
+2022-06-05 01:05:06.3805 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 01:05:06.3805 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 02:05:07.2717 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 02:05:07.2717 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 02:05:07.2718 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 02:05:07.2718 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 02:05:07.2718 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 02:05:07.2718 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 02:05:07.2718 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 02:05:07.2718 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 02:05:07.2720  [WU#1] deleting input0.txt
+2022-06-05 02:05:07.2721 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 02:05:07.2721  [WU#1] deleting input0.txt.md5
+2022-06-05 02:05:07.2721 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 02:05:07.2721 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 03:05:08.1900 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 03:05:08.1901 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 03:05:08.1901 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 03:05:08.1901 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 03:05:08.1901 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 03:05:08.1901 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 03:05:08.1902 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 03:05:08.1902 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 03:05:08.1904  [WU#1] deleting input0.txt
+2022-06-05 03:05:08.1904 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 03:05:08.1904  [WU#1] deleting input0.txt.md5
+2022-06-05 03:05:08.1904 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 03:05:08.1904 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 04:05:09.1047 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 04:05:09.1048 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 04:05:09.1048 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 04:05:09.1048 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 04:05:09.1048 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 04:05:09.1048 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 04:05:09.1048 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 04:05:09.1048 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 04:05:09.1050  [WU#1] deleting input0.txt
+2022-06-05 04:05:09.1050 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 04:05:09.1050  [WU#1] deleting input0.txt.md5
+2022-06-05 04:05:09.1050 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 04:05:09.1050 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 05:05:10.0345 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 05:05:10.0346 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 05:05:10.0346 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 05:05:10.0346 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 05:05:10.0346 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 05:05:10.0346 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 05:05:10.0346 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 05:05:10.0347 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 05:05:10.0349  [WU#1] deleting input0.txt
+2022-06-05 05:05:10.0349 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 05:05:10.0349  [WU#1] deleting input0.txt.md5
+2022-06-05 05:05:10.0349 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 05:05:10.0349 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 06:05:10.9776 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 06:05:10.9776 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 06:05:10.9776 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 06:05:10.9776 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 06:05:10.9776 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 06:05:10.9776 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 06:05:10.9777 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 06:05:10.9777 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 06:05:10.9778  [WU#1] deleting input0.txt
+2022-06-05 06:05:10.9778 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 06:05:10.9778  [WU#1] deleting input0.txt.md5
+2022-06-05 06:05:10.9778 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 06:05:10.9779 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 07:05:11.8859 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 07:05:11.8859 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 07:05:11.8859 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 07:05:11.8860 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 07:05:11.8860 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 07:05:11.8860 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 07:05:11.8860 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 07:05:11.8860 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 07:05:11.8861  [WU#1] deleting input0.txt
+2022-06-05 07:05:11.8862 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 07:05:11.8862  [WU#1] deleting input0.txt.md5
+2022-06-05 07:05:11.8862 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 07:05:11.8862 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 08:05:12.8310 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 08:05:12.8310 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 08:05:12.8311 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 08:05:12.8311 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 08:05:12.8311 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 08:05:12.8311 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 08:05:12.8311 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 08:05:12.8311 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 08:05:12.8314  [WU#1] deleting input0.txt
+2022-06-05 08:05:12.8314 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 08:05:12.8314  [WU#1] deleting input0.txt.md5
+2022-06-05 08:05:12.8314 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 08:05:12.8314 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 09:05:13.7561 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 09:05:13.7561 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 09:05:13.7561 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 09:05:13.7561 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 09:05:13.7561 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 09:05:13.7562 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 09:05:13.7562 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 09:05:13.7562 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 09:05:13.7563  [WU#1] deleting input0.txt
+2022-06-05 09:05:13.7564 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 09:05:13.7564  [WU#1] deleting input0.txt.md5
+2022-06-05 09:05:13.7564 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 09:05:13.7564 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 10:05:14.7124 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 10:05:14.7124 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 10:05:14.7124 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 10:05:14.7124 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 10:05:14.7124 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 10:05:14.7124 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 10:05:14.7125 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 10:05:14.7125 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 10:05:14.7127  [WU#1] deleting input0.txt
+2022-06-05 10:05:14.7128 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 10:05:14.7128  [WU#1] deleting input0.txt.md5
+2022-06-05 10:05:14.7128 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 10:05:14.7128 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 11:05:15.6613 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 11:05:15.6613 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 11:05:15.6613 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 11:05:15.6613 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 11:05:15.6614 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 11:05:15.6614 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 11:05:15.6614 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 11:05:15.6614 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 11:05:15.6615  [WU#1] deleting input0.txt
+2022-06-05 11:05:15.6615 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 11:05:15.6615  [WU#1] deleting input0.txt.md5
+2022-06-05 11:05:15.6616 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 11:05:15.6616 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 12:05:16.5919 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 12:05:16.5920 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 12:05:16.5920 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 12:05:16.5920 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 12:05:16.5920 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 12:05:16.5920 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 12:05:16.5920 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 12:05:16.5921 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 12:05:16.5922  [WU#1] deleting input0.txt
+2022-06-05 12:05:16.5922 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 12:05:16.5922  [WU#1] deleting input0.txt.md5
+2022-06-05 12:05:16.5922 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 12:05:16.5922 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 13:05:17.5410 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 13:05:17.5410 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 13:05:17.5410 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 13:05:17.5411 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 13:05:17.5411 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 13:05:17.5411 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 13:05:17.5411 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 13:05:17.5411 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 13:05:17.5413  [WU#1] deleting input0.txt
+2022-06-05 13:05:17.5413 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 13:05:17.5413  [WU#1] deleting input0.txt.md5
+2022-06-05 13:05:17.5413 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 13:05:17.5413 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 14:05:18.4478 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 14:05:18.4479 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 14:05:18.4479 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 14:05:18.4479 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 14:05:18.4479 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 14:05:18.4479 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 14:05:18.4480 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 14:05:18.4480 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 14:05:18.4481  [WU#1] deleting input0.txt
+2022-06-05 14:05:18.4481 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 14:05:18.4482  [WU#1] deleting input0.txt.md5
+2022-06-05 14:05:18.4482 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 14:05:18.4482 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 15:05:19.3907 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 15:05:19.3907 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 15:05:19.3908 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 15:05:19.3908 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 15:05:19.3908 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 15:05:19.3908 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 15:05:19.3908 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 15:05:19.3908 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 15:05:19.3910  [WU#1] deleting input0.txt
+2022-06-05 15:05:19.3910 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 15:05:19.3910  [WU#1] deleting input0.txt.md5
+2022-06-05 15:05:19.3910 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 15:05:19.3910 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 16:05:20.3422 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 16:05:20.3423 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 16:05:20.3423 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 16:05:20.3423 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 16:05:20.3423 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 16:05:20.3423 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 16:05:20.3423 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 16:05:20.3423 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 16:05:20.3426  [WU#1] deleting input0.txt
+2022-06-05 16:05:20.3426 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 16:05:20.3426  [WU#1] deleting input0.txt.md5
+2022-06-05 16:05:20.3426 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 16:05:20.3426 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 17:05:21.2410 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 17:05:21.2411 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 17:05:21.2411 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 17:05:21.2411 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 17:05:21.2411 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 17:05:21.2411 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 17:05:21.2412 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 17:05:21.2412 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 17:05:21.2414  [WU#1] deleting input0.txt
+2022-06-05 17:05:21.2414 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 17:05:21.2414  [WU#1] deleting input0.txt.md5
+2022-06-05 17:05:21.2414 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 17:05:21.2414 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 18:05:22.1744 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 18:05:22.1744 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 18:05:22.1745 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 18:05:22.1745 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 18:05:22.1745 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 18:05:22.1745 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 18:05:22.1745 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 18:05:22.1745 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 18:05:22.1748  [WU#1] deleting input0.txt
+2022-06-05 18:05:22.1748 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 18:05:22.1748  [WU#1] deleting input0.txt.md5
+2022-06-05 18:05:22.1748 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 18:05:22.1748 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 19:05:23.0888 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 19:05:23.0888 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 19:05:23.0888 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 19:05:23.0888 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 19:05:23.0889 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 19:05:23.0889 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 19:05:23.0889 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 19:05:23.0889 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 19:05:23.0890  [WU#1] deleting input0.txt
+2022-06-05 19:05:23.0890 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 19:05:23.0891  [WU#1] deleting input0.txt.md5
+2022-06-05 19:05:23.0891 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 19:05:23.0891 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 20:05:23.9266 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 20:05:23.9266 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 20:05:23.9266 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 20:05:23.9266 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 20:05:23.9266 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 20:05:23.9266 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 20:05:23.9267 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 20:05:23.9267 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 20:05:23.9269  [WU#1] deleting input0.txt
+2022-06-05 20:05:23.9269 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 20:05:23.9269  [WU#1] deleting input0.txt.md5
+2022-06-05 20:05:23.9269 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 20:05:23.9269 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 21:05:24.6367 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 21:05:24.6367 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 21:05:24.6367 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 21:05:24.6367 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 21:05:24.6368 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 21:05:24.6368 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 21:05:24.6368 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 21:05:24.6368 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 21:05:24.6369  [WU#1] deleting input0.txt
+2022-06-05 21:05:24.6370 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 21:05:24.6370  [WU#1] deleting input0.txt.md5
+2022-06-05 21:05:24.6370 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 21:05:24.6370 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 22:05:25.4739 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 22:05:25.4739 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 22:05:25.4739 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 22:05:25.4739 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 22:05:25.4740 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 22:05:25.4740 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 22:05:25.4740 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 22:05:25.4740 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 22:05:25.4742  [WU#1] deleting input0.txt
+2022-06-05 22:05:25.4743 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 22:05:25.4743  [WU#1] deleting input0.txt.md5
+2022-06-05 22:05:25.4743 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 22:05:25.4743 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-05 23:05:26.3930 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-05 23:05:26.3930 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-05 23:05:26.3930 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-05 23:05:26.3930 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-05 23:05:26.3930 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-05 23:05:26.3931 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-05 23:05:26.3931 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-05 23:05:26.3931 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-05 23:05:26.3932  [WU#1] deleting input0.txt
+2022-06-05 23:05:26.3933 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-05 23:05:26.3933  [WU#1] deleting input0.txt.md5
+2022-06-05 23:05:26.3933 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-05 23:05:26.3933 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 00:05:27.3143 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 00:05:27.3143 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 00:05:27.3144 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 00:05:27.3144 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 00:05:27.3144 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 00:05:27.3144 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 00:05:27.3144 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 00:05:27.3144 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 00:05:27.3147  [WU#1] deleting input0.txt
+2022-06-06 00:05:27.3147 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 00:05:27.3147  [WU#1] deleting input0.txt.md5
+2022-06-06 00:05:27.3147 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 00:05:27.3147 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 01:05:28.2185 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 01:05:28.2186 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 01:05:28.2186 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 01:05:28.2186 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 01:05:28.2186 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 01:05:28.2186 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 01:05:28.2186 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 01:05:28.2186 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 01:05:28.2188  [WU#1] deleting input0.txt
+2022-06-06 01:05:28.2188 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 01:05:28.2188  [WU#1] deleting input0.txt.md5
+2022-06-06 01:05:28.2188 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 01:05:28.2188 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 02:05:29.1350 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 02:05:29.1351 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 02:05:29.1351 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 02:05:29.1351 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 02:05:29.1351 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 02:05:29.1351 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 02:05:29.1351 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 02:05:29.1351 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 02:05:29.1353  [WU#1] deleting input0.txt
+2022-06-06 02:05:29.1353 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 02:05:29.1353  [WU#1] deleting input0.txt.md5
+2022-06-06 02:05:29.1353 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 02:05:29.1353 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 03:05:30.0420 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 03:05:30.0421 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 03:05:30.0421 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 03:05:30.0421 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 03:05:30.0421 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 03:05:30.0421 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 03:05:30.0421 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 03:05:30.0421 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 03:05:30.0423  [WU#1] deleting input0.txt
+2022-06-06 03:05:30.0423 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 03:05:30.0423  [WU#1] deleting input0.txt.md5
+2022-06-06 03:05:30.0423 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 03:05:30.0423 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 04:05:30.9408 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 04:05:30.9408 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 04:05:30.9408 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 04:05:30.9408 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 04:05:30.9409 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 04:05:30.9409 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 04:05:30.9409 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 04:05:30.9409 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 04:05:30.9410  [WU#1] deleting input0.txt
+2022-06-06 04:05:30.9411 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 04:05:30.9411  [WU#1] deleting input0.txt.md5
+2022-06-06 04:05:30.9411 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 04:05:30.9411 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 05:05:31.6536 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 05:05:31.6536 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 05:05:31.6537 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 05:05:31.6537 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 05:05:31.6537 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 05:05:31.6537 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 05:05:31.6537 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 05:05:31.6537 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 05:05:31.6539  [WU#1] deleting input0.txt
+2022-06-06 05:05:31.6539 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 05:05:31.6540  [WU#1] deleting input0.txt.md5
+2022-06-06 05:05:31.6540 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 05:05:31.6540 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 06:05:32.3659 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 06:05:32.3659 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 06:05:32.3660 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 06:05:32.3660 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 06:05:32.3660 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 06:05:32.3660 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 06:05:32.3660 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 06:05:32.3660 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 06:05:32.3662  [WU#1] deleting input0.txt
+2022-06-06 06:05:32.3662 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 06:05:32.3662  [WU#1] deleting input0.txt.md5
+2022-06-06 06:05:32.3662 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 06:05:32.3662 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 07:05:33.2889 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 07:05:33.2890 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 07:05:33.2890 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 07:05:33.2890 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 07:05:33.2890 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 07:05:33.2890 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 07:05:33.2891 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 07:05:33.2891 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 07:05:33.2893  [WU#1] deleting input0.txt
+2022-06-06 07:05:33.2893 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 07:05:33.2893  [WU#1] deleting input0.txt.md5
+2022-06-06 07:05:33.2893 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 07:05:33.2893 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 08:05:34.2467 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 08:05:34.2467 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 08:05:34.2467 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 08:05:34.2467 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 08:05:34.2467 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 08:05:34.2467 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 08:05:34.2468 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 08:05:34.2468 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 08:05:34.2469  [WU#1] deleting input0.txt
+2022-06-06 08:05:34.2469 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 08:05:34.2469  [WU#1] deleting input0.txt.md5
+2022-06-06 08:05:34.2469 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 08:05:34.2470 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 09:05:35.2060 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 09:05:35.2060 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 09:05:35.2060 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 09:05:35.2060 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 09:05:35.2060 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 09:05:35.2061 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 09:05:35.2061 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 09:05:35.2061 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 09:05:35.2063  [WU#1] deleting input0.txt
+2022-06-06 09:05:35.2063 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 09:05:35.2063  [WU#1] deleting input0.txt.md5
+2022-06-06 09:05:35.2064 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 09:05:35.2064 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 10:05:36.0457 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 10:05:36.0457 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 10:05:36.0458 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 10:05:36.0458 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 10:05:36.0458 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 10:05:36.0458 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 10:05:36.0458 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 10:05:36.0458 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 10:05:36.0460  [WU#1] deleting input0.txt
+2022-06-06 10:05:36.0460 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 10:05:36.0460  [WU#1] deleting input0.txt.md5
+2022-06-06 10:05:36.0460 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 10:05:36.0460 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 11:05:36.7642 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 11:05:36.7642 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 11:05:36.7642 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 11:05:36.7642 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 11:05:36.7642 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 11:05:36.7643 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 11:05:36.7643 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 11:05:36.7643 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 11:05:36.7645  [WU#1] deleting input0.txt
+2022-06-06 11:05:36.7645 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 11:05:36.7645  [WU#1] deleting input0.txt.md5
+2022-06-06 11:05:36.7645 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 11:05:36.7646 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 12:05:37.4907 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 12:05:37.4907 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 12:05:37.4908 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 12:05:37.4908 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 12:05:37.4908 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 12:05:37.4908 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 12:05:37.4908 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 12:05:37.4908 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 12:05:37.4910  [WU#1] deleting input0.txt
+2022-06-06 12:05:37.4910 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 12:05:37.4910  [WU#1] deleting input0.txt.md5
+2022-06-06 12:05:37.4910 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 12:05:37.4910 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 13:05:38.3841 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 13:05:38.3841 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 13:05:38.3841 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 13:05:38.3841 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 13:05:38.3841 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 13:05:38.3841 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 13:05:38.3842 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 13:05:38.3842 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 13:05:38.3843  [WU#1] deleting input0.txt
+2022-06-06 13:05:38.3843 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 13:05:38.3843  [WU#1] deleting input0.txt.md5
+2022-06-06 13:05:38.3843 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 13:05:38.3844 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 14:05:39.3310 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 14:05:39.3311 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 14:05:39.3311 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 14:05:39.3311 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 14:05:39.3311 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 14:05:39.3311 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 14:05:39.3311 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 14:05:39.3311 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 14:05:39.3314  [WU#1] deleting input0.txt
+2022-06-06 14:05:39.3314 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 14:05:39.3314  [WU#1] deleting input0.txt.md5
+2022-06-06 14:05:39.3314 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 14:05:39.3314 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 15:05:40.2584 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 15:05:40.2585 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 15:05:40.2585 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 15:05:40.2585 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 15:05:40.2585 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 15:05:40.2585 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 15:05:40.2585 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 15:05:40.2585 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 15:05:40.2587  [WU#1] deleting input0.txt
+2022-06-06 15:05:40.2587 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 15:05:40.2587  [WU#1] deleting input0.txt.md5
+2022-06-06 15:05:40.2587 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 15:05:40.2587 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 16:05:41.1959 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 16:05:41.1960 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 16:05:41.1960 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 16:05:41.1960 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 16:05:41.1960 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 16:05:41.1960 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 16:05:41.1960 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 16:05:41.1961 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 16:05:41.1962  [WU#1] deleting input0.txt
+2022-06-06 16:05:41.1962 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 16:05:41.1962  [WU#1] deleting input0.txt.md5
+2022-06-06 16:05:41.1962 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 16:05:41.1963 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 17:05:42.0926 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 17:05:42.0926 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 17:05:42.0927 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 17:05:42.0927 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 17:05:42.0927 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 17:05:42.0927 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 17:05:42.0927 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 17:05:42.0927 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 17:05:42.0929  [WU#1] deleting input0.txt
+2022-06-06 17:05:42.0929 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 17:05:42.0929  [WU#1] deleting input0.txt.md5
+2022-06-06 17:05:42.0929 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 17:05:42.0929 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 18:05:43.0333 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 18:05:43.0333 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 18:05:43.0334 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 18:05:43.0334 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 18:05:43.0334 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 18:05:43.0334 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 18:05:43.0334 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 18:05:43.0334 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 18:05:43.0336  [WU#1] deleting input0.txt
+2022-06-06 18:05:43.0336 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 18:05:43.0336  [WU#1] deleting input0.txt.md5
+2022-06-06 18:05:43.0336 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 18:05:43.0336 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 19:05:43.9625 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 19:05:43.9625 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 19:05:43.9625 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 19:05:43.9625 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 19:05:43.9625 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 19:05:43.9626 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 19:05:43.9626 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 19:05:43.9626 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 19:05:43.9627  [WU#1] deleting input0.txt
+2022-06-06 19:05:43.9628 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 19:05:43.9628  [WU#1] deleting input0.txt.md5
+2022-06-06 19:05:43.9628 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 19:05:43.9628 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 20:05:44.8876 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 20:05:44.8877 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 20:05:44.8877 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 20:05:44.8877 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 20:05:44.8877 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 20:05:44.8877 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 20:05:44.8877 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 20:05:44.8877 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 20:05:44.8879  [WU#1] deleting input0.txt
+2022-06-06 20:05:44.8880 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 20:05:44.8880  [WU#1] deleting input0.txt.md5
+2022-06-06 20:05:44.8880 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 20:05:44.8880 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 21:05:45.7988 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 21:05:45.7988 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 21:05:45.7988 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 21:05:45.7989 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 21:05:45.7989 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 21:05:45.7989 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 21:05:45.7989 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 21:05:45.7989 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 21:05:45.7991  [WU#1] deleting input0.txt
+2022-06-06 21:05:45.7991 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 21:05:45.7991  [WU#1] deleting input0.txt.md5
+2022-06-06 21:05:45.7991 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 21:05:45.7991 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 22:05:46.6624 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 22:05:46.6624 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 22:05:46.6624 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 22:05:46.6625 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 22:05:46.6625 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 22:05:46.6625 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 22:05:46.6625 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 22:05:46.6625 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 22:05:46.6627  [WU#1] deleting input0.txt
+2022-06-06 22:05:46.6627 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 22:05:46.6627  [WU#1] deleting input0.txt.md5
+2022-06-06 22:05:46.6627 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 22:05:46.6627 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-06 23:05:47.5854 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-06 23:05:47.5855 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-06 23:05:47.5855 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-06 23:05:47.5855 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-06 23:05:47.5855 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-06 23:05:47.5855 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-06 23:05:47.5855 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-06 23:05:47.5855 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-06 23:05:47.5857  [WU#1] deleting input0.txt
+2022-06-06 23:05:47.5857 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-06 23:05:47.5857  [WU#1] deleting input0.txt.md5
+2022-06-06 23:05:47.5857 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-06 23:05:47.5857 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 00:05:48.4891 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 00:05:48.4891 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 00:05:48.4891 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 00:05:48.4891 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 00:05:48.4892 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 00:05:48.4892 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 00:05:48.4892 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 00:05:48.4892 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 00:05:48.4894  [WU#1] deleting input0.txt
+2022-06-07 00:05:48.4894 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 00:05:48.4894  [WU#1] deleting input0.txt.md5
+2022-06-07 00:05:48.4894 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 00:05:48.4894 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 01:05:49.3987 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 01:05:49.3987 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 01:05:49.3987 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 01:05:49.3987 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 01:05:49.3987 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 01:05:49.3987 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 01:05:49.3988 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 01:05:49.3988 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 01:05:49.3990  [WU#1] deleting input0.txt
+2022-06-07 01:05:49.3990 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 01:05:49.3990  [WU#1] deleting input0.txt.md5
+2022-06-07 01:05:49.3990 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 01:05:49.3990 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 02:05:50.3060 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 02:05:50.3061 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 02:05:50.3061 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 02:05:50.3061 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 02:05:50.3061 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 02:05:50.3061 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 02:05:50.3061 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 02:05:50.3061 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 02:05:50.3064  [WU#1] deleting input0.txt
+2022-06-07 02:05:50.3064 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 02:05:50.3064  [WU#1] deleting input0.txt.md5
+2022-06-07 02:05:50.3064 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 02:05:50.3064 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 03:05:51.1984 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 03:05:51.1984 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 03:05:51.1985 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 03:05:51.1985 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 03:05:51.1985 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 03:05:51.1985 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 03:05:51.1985 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 03:05:51.1985 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 03:05:51.1987  [WU#1] deleting input0.txt
+2022-06-07 03:05:51.1987 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 03:05:51.1987  [WU#1] deleting input0.txt.md5
+2022-06-07 03:05:51.1987 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 03:05:51.1987 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 04:05:52.1270 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 04:05:52.1270 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 04:05:52.1270 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 04:05:52.1270 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 04:05:52.1270 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 04:05:52.1270 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 04:05:52.1271 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 04:05:52.1271 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 04:05:52.1273  [WU#1] deleting input0.txt
+2022-06-07 04:05:52.1273 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 04:05:52.1273  [WU#1] deleting input0.txt.md5
+2022-06-07 04:05:52.1273 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 04:05:52.1273 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 05:05:53.0622 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 05:05:53.0623 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 05:05:53.0623 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 05:05:53.0623 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 05:05:53.0623 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 05:05:53.0623 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 05:05:53.0623 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 05:05:53.0624 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 05:05:53.0625  [WU#1] deleting input0.txt
+2022-06-07 05:05:53.0625 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 05:05:53.0625  [WU#1] deleting input0.txt.md5
+2022-06-07 05:05:53.0625 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 05:05:53.0626 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 06:05:53.9959 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 06:05:53.9960 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 06:05:53.9960 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 06:05:53.9960 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 06:05:53.9960 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 06:05:53.9960 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 06:05:53.9960 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 06:05:53.9960 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 06:05:53.9962  [WU#1] deleting input0.txt
+2022-06-07 06:05:53.9963 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 06:05:53.9963  [WU#1] deleting input0.txt.md5
+2022-06-07 06:05:53.9963 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 06:05:53.9963 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 07:05:54.7473 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 07:05:54.7474 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 07:05:54.7474 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 07:05:54.7474 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 07:05:54.7474 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 07:05:54.7474 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 07:05:54.7474 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 07:05:54.7475 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 07:05:54.7477  [WU#1] deleting input0.txt
+2022-06-07 07:05:54.7477 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 07:05:54.7477  [WU#1] deleting input0.txt.md5
+2022-06-07 07:05:54.7477 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 07:05:54.7477 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 08:05:55.4775 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 08:05:55.4775 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 08:05:55.4775 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 08:05:55.4776 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 08:05:55.4776 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 08:05:55.4776 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 08:05:55.4776 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 08:05:55.4776 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 08:05:55.4778  [WU#1] deleting input0.txt
+2022-06-07 08:05:55.4778 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 08:05:55.4778  [WU#1] deleting input0.txt.md5
+2022-06-07 08:05:55.4778 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 08:05:55.4779 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 09:05:56.4285 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 09:05:56.4286 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 09:05:56.4286 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 09:05:56.4286 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 09:05:56.4286 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 09:05:56.4286 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 09:05:56.4286 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 09:05:56.4286 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 09:05:56.4288  [WU#1] deleting input0.txt
+2022-06-07 09:05:56.4289 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 09:05:56.4289  [WU#1] deleting input0.txt.md5
+2022-06-07 09:05:56.4289 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 09:05:56.4289 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 10:05:57.3764 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 10:05:57.3765 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 10:05:57.3765 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 10:05:57.3765 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 10:05:57.3765 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 10:05:57.3765 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 10:05:57.3765 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 10:05:57.3766 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 10:05:57.3767  [WU#1] deleting input0.txt
+2022-06-07 10:05:57.3767 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 10:05:57.3767  [WU#1] deleting input0.txt.md5
+2022-06-07 10:05:57.3767 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 10:05:57.3768 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 11:05:58.2980 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 11:05:58.2981 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 11:05:58.2981 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 11:05:58.2981 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 11:05:58.2981 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 11:05:58.2981 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 11:05:58.2981 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 11:05:58.2981 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 11:05:58.2983  [WU#1] deleting input0.txt
+2022-06-07 11:05:58.2983 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 11:05:58.2983  [WU#1] deleting input0.txt.md5
+2022-06-07 11:05:58.2983 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 11:05:58.2983 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 12:05:59.2282 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 12:05:59.2283 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 12:05:59.2283 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 12:05:59.2283 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 12:05:59.2283 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 12:05:59.2283 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 12:05:59.2283 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 12:05:59.2283 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 12:05:59.2285  [WU#1] deleting input0.txt
+2022-06-07 12:05:59.2285 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 12:05:59.2285  [WU#1] deleting input0.txt.md5
+2022-06-07 12:05:59.2285 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 12:05:59.2285 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 13:06:00.1439 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 13:06:00.1440 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 13:06:00.1440 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 13:06:00.1440 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 13:06:00.1440 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 13:06:00.1440 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 13:06:00.1440 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 13:06:00.1440 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 13:06:00.1442  [WU#1] deleting input0.txt
+2022-06-07 13:06:00.1442 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 13:06:00.1442  [WU#1] deleting input0.txt.md5
+2022-06-07 13:06:00.1442 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 13:06:00.1442 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 14:06:01.0908 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 14:06:01.0908 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 14:06:01.0909 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 14:06:01.0909 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 14:06:01.0909 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 14:06:01.0909 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 14:06:01.0909 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 14:06:01.0909 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 14:06:01.0911  [WU#1] deleting input0.txt
+2022-06-07 14:06:01.0911 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 14:06:01.0911  [WU#1] deleting input0.txt.md5
+2022-06-07 14:06:01.0911 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 14:06:01.0911 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 15:06:02.0307 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 15:06:02.0307 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 15:06:02.0308 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 15:06:02.0308 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 15:06:02.0308 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 15:06:02.0308 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 15:06:02.0308 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 15:06:02.0308 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 15:06:02.0310  [WU#1] deleting input0.txt
+2022-06-07 15:06:02.0310 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 15:06:02.0310  [WU#1] deleting input0.txt.md5
+2022-06-07 15:06:02.0311 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 15:06:02.0311 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 16:06:02.9663 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 16:06:02.9663 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 16:06:02.9663 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 16:06:02.9664 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 16:06:02.9664 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 16:06:02.9664 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 16:06:02.9664 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 16:06:02.9664 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 16:06:02.9666  [WU#1] deleting input0.txt
+2022-06-07 16:06:02.9666 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 16:06:02.9666  [WU#1] deleting input0.txt.md5
+2022-06-07 16:06:02.9666 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 16:06:02.9667 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 17:06:03.8448 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 17:06:03.8448 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 17:06:03.8449 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 17:06:03.8449 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 17:06:03.8449 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 17:06:03.8449 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 17:06:03.8449 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 17:06:03.8449 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 17:06:03.8451  [WU#1] deleting input0.txt
+2022-06-07 17:06:03.8452 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 17:06:03.8452  [WU#1] deleting input0.txt.md5
+2022-06-07 17:06:03.8452 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 17:06:03.8452 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 18:06:04.6087 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 18:06:04.6087 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 18:06:04.6087 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 18:06:04.6088 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 18:06:04.6088 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 18:06:04.6088 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 18:06:04.6088 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 18:06:04.6088 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 18:06:04.6090  [WU#1] deleting input0.txt
+2022-06-07 18:06:04.6090 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 18:06:04.6090  [WU#1] deleting input0.txt.md5
+2022-06-07 18:06:04.6090 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 18:06:04.6090 [CRITICAL] [WU#1] file deletion failed: unlink() failed
+2022-06-07 19:06:05.5290 [CRITICAL] [RESULT#1] missing dir for /home/rutoves/projects/test_algo/upload/76
+2022-06-07 19:06:05.5291 [CRITICAL] [RESULT#1] file deletion failed: opendir() failed
+2022-06-07 19:06:05.5291 [CRITICAL] [RESULT#2] missing dir for /home/rutoves/projects/test_algo/upload/ce
+2022-06-07 19:06:05.5291 [CRITICAL] [RESULT#2] file deletion failed: opendir() failed
+2022-06-07 19:06:05.5291 [CRITICAL] [RESULT#3] missing dir for /home/rutoves/projects/test_algo/upload/1a3
+2022-06-07 19:06:05.5291 [CRITICAL] [RESULT#3] file deletion failed: opendir() failed
+2022-06-07 19:06:05.5291 [CRITICAL] [RESULT#4] missing dir for /home/rutoves/projects/test_algo/upload/d
+2022-06-07 19:06:05.5291 [CRITICAL] [RESULT#4] file deletion failed: opendir() failed
+2022-06-07 19:06:05.5293  [WU#1] deleting input0.txt
+2022-06-07 19:06:05.5293 [CRITICAL] [WU#1] unlink input0.txt failed: Error -1
+2022-06-07 19:06:05.5293  [WU#1] deleting input0.txt.md5
+2022-06-07 19:06:05.5294 [CRITICAL] [WU#1] unlink input0.txt.md5 failed: Error -1
+2022-06-07 19:06:05.5294 [CRITICAL] [WU#1] file deletion failed: unlink() failed

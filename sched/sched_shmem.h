@@ -105,6 +105,7 @@ struct SCHED_SHMEM {
     bool have_nci_app;
     bool have_apps_for_proc_type[NPROC_TYPES];
     int max_credit = 0;
+    double max_fpops = 0.0;
     PERF_INFO perf_info;
     PLATFORM platforms[MAX_PLATFORMS];
     APP apps[MAX_APPS];

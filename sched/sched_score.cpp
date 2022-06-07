@@ -113,8 +113,9 @@ bool JOB::get_score(int array_index) {
     }
 
     if (app.weight == -1) {
+        double job_coefficient = wu_result.fpops_size / ssp->max_fpops;
         double credit_coefficient = (double)g_reply->host.total_credit / (double)ssp->max_credit;
-        score += (int)(credit_coefficient * credit_coefficient * 10);
+        score += (int)(credit_coefficient * job_coefficient * 20 - 10);
     }
 
     if (app->n_size_classes > 1) {

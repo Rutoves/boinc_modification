@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+array=$(<"in")
+
+printf '%s\n' "${array[@]}" | sort -rg > out

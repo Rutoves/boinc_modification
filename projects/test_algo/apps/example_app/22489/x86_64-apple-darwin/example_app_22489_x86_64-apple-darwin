@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+array=$(<"in")
+for i in {1..30}
+do
+    printf '%s\n' "${array[@]}" | sort -rg > out
+done
